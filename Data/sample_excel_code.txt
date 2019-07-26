@@ -1,0 +1,117 @@
+Sub sorter()
+'
+' sorter Macro
+'
+' Keyboard Shortcut: Ctrl+Shift+K
+'
+    For K = 4 To 251
+    holder = Range("[se.xpd.totl.gb.zs_Indicator_en_csv_v2.csv]se.xpd.totl.gb.zs_Indicator_en_!$A$" & K).Value
+    holder2 = Range("[GSH2013_Sex_time_series2.csv]Sheet2!$A$" & (K - 2)).Value
+    For J = 5 To 41
+    If LCase(Range("[GSH2013_robbery.csv]GSH2013_robbery!$A$" & J).Value) = LCase(holder) Or LCase(Range("[GSH2013_robbery.csv]GSH2013_robbery!$A$" & J).Value) = LCase(holder2) Then
+    Sheets("GSH2013_robbery").Select
+    Rows((J & ":") & J).Select
+    Selection.Copy
+    Sheets("Sheet1").Select
+    Rows(((K - 2) & ":") & (K - 2)).Select
+    Selection.Insert Shift:=xlDown, CopyOrigin:=xlFormatFromLeftOrAbove
+    Range("[GSH2013_robbery.csv]Sheet1!$A$" & (K - 2)).Value = holder
+    Exit For
+    End If
+    Next J
+    If Range("[GSH2013_robbery.csv]Sheet1!$A$" & (K - 2)).Value = "" Then
+    Range("[GSH2013_robbery.csv]Sheet1!$A$" & (K - 2)).Value = holder
+    End If
+    Next K
+    
+End Sub
+
+
+Sub sorterr()
+'
+' sorter Macro
+'
+' Keyboard Shortcut: Ctrl+Shift+L
+'
+    For K = 4 To 251
+    holder = Range("[se.xpd.totl.gb.zs_Indicator_en_csv_v2.csv]se.xpd.totl.gb.zs_Indicator_en_!$A$" & K).Value
+    holder2 = Range("[GSH2013_Sex_time_series2.csv]GSH2013_Sex_time_series2!$A$" & (K - 2)).Value
+    For J = 2 To 2766
+    If LCase(Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$A$" & J).Value) = LCase(holder) Or LCase(Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$A$" & J).Value) = LCase(holder2) Then
+    If Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$C$" & J).Value = "Parliamentary" Then
+    Sheets("Sheet1").Select
+    Range("E1").Select
+    For I = 0 To 54
+    If ActiveCell.Offset(0, I).Value = Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$D$" & J).Value Then
+    ActiveCell.Offset((K - 3), I).Value = Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$E$" & J).Value
+    Sheets("Sheet2").Select
+    Range("E1").Select
+    ActiveCell.Offset((K - 3), I).Value = Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$H$" & J).Value
+    Exit For
+    End If
+    Next I
+    End If
+    If Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$C$" & J).Value = "Presidential" Then
+    Sheets("Sheet3").Select
+    Range("E1").Select
+    For I = 0 To 54
+    If ActiveCell.Offset(0, I).Value = Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$D$" & J).Value Then
+    ActiveCell.Offset((K - 3), I).Value = Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$E$" & J).Value
+    Sheets("Sheet4").Select
+    Range("E1").Select
+    ActiveCell.Offset((K - 3), I).Value = Range("[voter_turnout_04_16_2015.csv]voter_turnout_04_16_2015!$H$" & J).Value
+    Exit For
+    End If
+    Next I
+    End If
+    End If
+    Next J
+    Next K
+    
+End Sub
+
+
+Sub checker()
+'
+' checker Macro
+'
+' Keyboard Shortcut: Ctrl+Shift+J
+'
+    T = 0
+    For K = 4 To 251
+    holder = Range("[se.xpd.totl.gb.zs_Indicator_en_csv_v2.csv]se.xpd.totl.gb.zs_Indicator_en_!$A$" & K).Value
+    If holder = Range("[GSH2013_City_data.csv]GSH2013_City_data!$A$" & (K - 2)).Value Then
+    Else
+    T = 1
+    End If
+    Next K
+    Range("[GSH2013_City_data.csv]GSH2013_City_data!$A$" & 252).Value = T
+End Sub
+
+
+Sub doublec()
+'
+' doublec Macro
+'
+' Keyboard Shortcut: Ctrl+Shift+R
+'
+    For J = 5 To 41
+    T = 0
+    holder = Range("[GSH2013_robbery.csv]GSH2013_robbery!$A$" & J).Value
+    For K = 2 To 249
+    If LCase(holder) = LCase(Range("[GSH2013_robbery.csv]Sheet1!$A$" & K).Value) Then
+    T = 1
+    Exit For
+    End If
+    Next K
+    If T = 0 Then
+    Range("[GSH2013_robbery.csv]GSH2013_robbery!$A$" & J).Select
+    With Selection.Font
+        .Color = -16776961
+        .TintAndShade = 0
+    End With
+    End If
+    Next J
+    Range("[GSH2013_robbery.csv]GSH2013_robbery!$A$" & 56).Select
+End Sub
+

@@ -1,0 +1,249 @@
+Country Name		Indicator Name		1960	1961	1962	1963	1964	1965	1966	1967	1968	1969	1970	1971	1972	1973	1974	1975	1976	1977	1978	1979	1980	1981	1982	1983	1984	1985	1986	1987	1988	1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014
+Aruba		"Intentional homicide victims killed during commission of a robbery as percentage of total homicide victims, by country/territory (2005-2012)"																																																								
+Andorra																																																										
+Afghanistan																																																										
+Angola																																																										
+Albania		Southern Europe	CTS																																														0.03	0	0.04	0.03	0.04	0.03	0.02			
+Arab World																																																										
+United Arab Emirates																																																										
+Argentina																																																										
+Armenia		Western Asia	CTS																																														0.05	0.06	0.05	0.12	0.12	0.05	0.05	0.06		
+American Samoa																																																										
+Antigua and Barbuda																																																										
+Australia	Oceania	Australia and New Zealand	CTS																																														0.07	0.06	0.06	0.02	0.03					
+Austria		Western Europe	CTS																																														0.11	0.16	0.27	0.11	0.14	0.06	0.04			
+Azerbaijan			CTS																																																			0.02				
+Burundi																																																										
+Belgium																																																										
+Benin																																																										
+Burkina Faso																																																										
+Bangladesh																																																										
+Bulgaria	Europe	Eastern Europe	CTS																																														0	0.01	0.01	0.02	0.02	0.03	0.06	0.05		
+Bahrain																																																										
+"Bahamas, The"	Americas	Caribbean	CTS																																														0.1	0.1	0.17	0.23	0.13	0.21	0.11			
+Bosnia and Herzegovina			CTS																																																			0.04	0			
+Belarus																																																										
+Belize																																																										
+Bermuda																																																										
+Bolivia																																																										
+Brazil																																																										
+Barbados																																																										
+Brunei Darussalam																																																										
+Bhutan																																																										
+Botswana																																																										
+Central African Republic																																																										
+Canada		Northern America	CTS																																														0.07	0.06	0.06	0.04	0.09	0.06	0.08			
+Central Europe and the Baltics																																																										
+Switzerland			CTS																																																		0.02	0.02	0.02			
+Channel Islands																																																										
+Chile																																																										
+China																																																										
+Cote d'Ivoire																																																										
+Cameroon																																																										
+"Congo, Rep."																																																										
+Colombia		South America	CTS																																														0.03	0.04	0.05	0.04	0.04	0.05	0.04			
+Comoros																																																										
+Cabo Verde																																																										
+Costa Rica		Central America	CTS																																															0.19	0.21	0.23	0.25	0.22	0.21	0.16		
+Caribbean small states																																																										
+Cuba																																																										
+Curacao																																																										
+Cayman Islands																																																										
+Cyprus			CTS																																																				0.22			
+Czech Republic			CTS																																																0.09	0.12	0.14	0.13	0.05			
+Germany			CTS																																														0.06	0.08	0.09	0.1	0.08	0.09	0.09			
+Djibouti																																																										
+Dominica																																																										
+Denmark																																																										
+Dominican Republic			CTS																																																			0.18	0.15	0.28		
+Algeria																																																										
+East Asia & Pacific (developing only)																																																										
+East Asia & Pacific (all income levels)																																																										
+Europe & Central Asia (developing only)																																																										
+Europe & Central Asia (all income levels)																																																										
+Ecuador																																																										
+"Egypt, Arab Rep."																																																										
+Euro area																																																										
+Eritrea																																																										
+Spain			CTS																																																				0.03	0.03		
+Estonia																																																										
+Ethiopia																																																										
+European Union																																																										
+Fragile and conflict affected situations																																																										
+Finland		Northern Europe	CTS																																														0.06	0.03	0.02	0.01	0.03	0.03	0.02			
+Fiji																																																										
+France																																																										
+Faeroe Islands																																																										
+"Micronesia, Fed. Sts."																																																										
+Gabon																																																										
+United Kingdom																																																										
+Georgia			CTS																																																			0.01				
+Ghana																																																										
+Guinea																																																										
+"Gambia, The"																																																										
+Guinea-Bissau																																																										
+Equatorial Guinea																																																										
+Greece																																																										
+Grenada			CTS																																																0	0.06	0	0	0	0.07		
+Greenland																																																										
+Guatemala																																																										
+Guam																																																										
+Guyana			CTS																																																				0.17			
+High income																																																										
+"Hong Kong SAR, China"																																																										
+Honduras																																																										
+Heavily indebted poor countries (HIPC)																																																										
+Croatia			CTS																																																			0.02	0.04	0		
+Haiti																																																										
+Hungary																																																										
+Indonesia																																																										
+Isle of Man																																																										
+India																																																										
+Not classified																																																										
+Ireland																																																										
+"Iran, Islamic Rep."																																																										
+Iraq																																																										
+Iceland			CTS																																																					0		
+Israel																																																										
+Italy			CTS																																														0.05	0.05	0.06	0.05	0.04	0.07	0.05			
+Jamaica			CTS/SES																																																	0.45	0.38	0.42	0.37			
+Jordan																																																										
+Japan	Asia	Eastern Asia	CTS																																														0.07	0.05	0.05	0.04	0.07	0.08	0.08			
+Kazakhstan																																																										
+Kenya																																																										
+Kyrgyz Republic																																																										
+Cambodia																																																										
+Kiribati																																																										
+St. Kitts and Nevis																																																										
+"Korea, Rep."			CTS																																																				0.08			
+Kosovo																																																										
+Kuwait																																																										
+Latin America & Caribbean (developing only)																																																										
+Lao PDR																																																										
+Lebanon																																																										
+Liberia																																																										
+Libya																																																										
+St. Lucia																																																										
+Latin America & Caribbean (all income levels)																																																										
+Least developed countries: UN classification																																																										
+Low income																																																										
+Liechtenstein																																																										
+Sri Lanka																																																										
+Lower middle income																																																										
+Low & middle income																																																										
+Lesotho																																																										
+Lithuania																																																										
+Luxembourg			CTS																																																0	0	0	0.1	0.25			
+Latvia																																																										
+"Macao SAR, China"																																																										
+St. Martin (French part)																																																										
+Morocco																																																										
+Monaco																																																										
+Moldova																																																										
+Madagascar																																																										
+Maldives																																																										
+Middle East & North Africa (all income levels)																																																										
+Mexico																																																										
+Marshall Islands																																																										
+Middle income																																																										
+"Macedonia, FYR"			CTS																																															0.04	0	0.03	0.09	0.07	0.03			
+Mali																																																										
+Malta																																																										
+Myanmar																																																										
+Middle East & North Africa (developing only)																																																										
+Montenegro			CTS																																																				0.05			
+Mongolia			CTS																																																0	0	0	0.01	0			
+Northern Mariana Islands																																																										
+Mozambique																																																										
+Mauritania																																																										
+Mauritius																																																										
+Malawi																																																										
+Malaysia																																																										
+North America																																																										
+Namibia																																																										
+New Caledonia																																																										
+Niger																																																										
+Nigeria																																																										
+Nicaragua																																																										
+Netherlands																																																										
+High income: nonOECD																																																										
+Norway																																																										
+Nepal																																																										
+New Zealand																																																										
+High income: OECD																																																										
+OECD members																																																										
+Oman																																																										
+Other small states																																																										
+Pakistan																																																										
+Panama			CTS																																														0.16	0.11	0.09	0.15	0.13	0.08	0.13	0.09		
+Peru																																																										
+Philippines																																																										
+Palau																																																										
+Papua New Guinea																																																										
+Poland																																																										
+Puerto Rico																																																										
+"Korea, Dem. Rep."																																																										
+Portugal																																																										
+Paraguay																																																										
+Pacific island small states																																																										
+French Polynesia																																																										
+Qatar																																																										
+Romania																																																										
+Russian Federation																																																										
+Rwanda																																																										
+South Asia																																																										
+Saudi Arabia																																																										
+Sudan																																																										
+Senegal																																																										
+Singapore		South-Eastern Asia	CTS																																															0.12	0.06	0.15	0.05	0.16	0.06			
+Solomon Islands																																																										
+Sierra Leone																																																										
+El Salvador			CTS																																																0	0.01	0.05	0.02	0	0.01		
+San Marino																																																										
+Somalia																																																										
+Serbia																																																										
+Sub-Saharan Africa (developing only)																																																										
+South Sudan																																																										
+Sub-Saharan Africa (all income levels)																																																										
+Small states																																																										
+Sao Tome and Principe																																																										
+Suriname																																																										
+Slovak Republic																																																										
+Slovenia																																																										
+Sweden																																																										
+Swaziland																																																										
+Sint Maarten (Dutch part)																																																										
+Seychelles																																																										
+Syrian Arab Republic																																																										
+Turks and Caicos Islands																																																										
+Chad																																																										
+Togo																																																										
+Thailand																																																										
+Tajikistan																																																										
+Turkmenistan																																																										
+Timor-Leste																																																										
+Tonga																																																										
+Trinidad and Tobago			CTS																																															0.11	0.12	0.1	0.16	0.18	0.15			
+Tunisia																																																										
+Turkey																																																										
+Tuvalu																																																										
+Tanzania																																																										
+Uganda																																																										
+Ukraine																																																										
+Upper middle income																																																										
+Uruguay			CTS																																																				0.16			
+United States			CTS																																															0.06	0.06	0.06	0.06	0.06	0.05			
+Uzbekistan																																																										
+St. Vincent and the Grenadines																																																										
+"Venezuela, RB"																																																										
+Virgin Islands (U.S.)																																																										
+Vietnam																																																										
+Vanuatu																																																										
+West Bank and Gaza																																																										
+World																																																										
+Samoa																																																										
+"Yemen, Rep."																																																										
+South Africa																																																										
+"Congo, Dem. Rep."																																																										
+Zambia																																																										
+Zimbabwe																																																										

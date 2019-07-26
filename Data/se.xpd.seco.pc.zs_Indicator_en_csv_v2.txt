@@ -1,0 +1,251 @@
+Data Source	World Development Indicators																																																									
+																																																										
+Country Name	Country Code	Indicator Name	Indicator Code	1960	1961	1962	1963	1964	1965	1966	1967	1968	1969	1970	1971	1972	1973	1974	1975	1976	1977	1978	1979	1980	1981	1982	1983	1984	1985	1986	1987	1988	1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014
+Aruba	ABW	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								18.56194	19.20525	20.24011	19.39233		17.74369	17.61316		16.60851	17.71224	20.48856	21.42361	22.37959			
+Andorra	AND	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Afghanistan	AFG	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Angola	AGO	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Albania	ALB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Arab World	ARB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+United Arab Emirates	ARE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							7.97562																
+Argentina	ARG	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							15.13345	18.21984	17.60592	18.88809	16.9277	14.29277	15.64305	19.59114	20.24247	21.83414	23.74943	27.03955	25.05885	27.54421			
+Armenia	ARM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																					17.74885		
+American Samoa	ASM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS															0	0	0																																						
+Antigua and Barbuda	ATG	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																		11.94563					
+Australia	AUS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									13.94316					15.95171	17.83496	17.31688	17.15468	18.56617	19.84485	17.97745			
+Austria	AUT	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							29.59729	29.9666	27.82918	27.8574	27.76305	28.72908	27.45845	26.30927	26.58162	26.34749	27.37491	30.61691	29.60003	30.54559			
+Azerbaijan	AZE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Burundi	BDI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										55.8706	55.2224		54.41271	54.60487				48.59976	51.86608	41.08067	33.51181		
+Belgium	BEL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										23.68715	24.3409	22.54002	33.12932	32.83377	32.65927	33.17507	36.45208	37.90179	37.79391	38.57722			
+Benin	BEN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									24.5038	24.31751	20.16425	22.53428	25.80679	24.68671									
+Burkina Faso	BFA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																														20.79332	22.17066	29.2052			19.97265	17.02516	16.63349		
+Bangladesh	BGD	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								11.77023	10.83255		12.39432	13.41698	14.64826		14.88731	14.45264	13.81216	12.18443	14.75909	13.93423			
+Bulgaria	BGR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							16.05696			18.65645	18.47813	20.18664	10.56972	22.02439	20.98652	20.59745	23.80522	24.95016	24.47699				
+Bahrain	BHR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+"Bahamas, The"	BHS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Bosnia and Herzegovina	BIH	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Belarus	BLR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Belize	BLZ	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								17.57748	15.87094				18.43419	19.65654	19.81787		21.10288	22.51133	24.9777				
+Bermuda	BMU	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																													12.34193	14.02632					17.8416				
+Bolivia	BOL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							12.22361	11.97756	9.79345	10.47555	12.94612	13.33401			14.73882		17.02766	19.90214	19.17639	19.52593			
+Brazil	BRA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											10.21221		11.54012	13.14855		18.00387	19.5296	20.54492	21.56637				
+Barbados	BRB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								17.17245	20.80923	24.95369	25.12404	27.58162	24.41081	22.41466		22.06972	20.33984	21.73374	24.96685				
+Brunei Darussalam	BRN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																			7.84746			8.11244	
+Bhutan	BTN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																	37.06365	34.45452	27.01584	31.52457			
+Botswana	BWA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																														46.14452		42.4508		33.00458					
+Central African Republic	CAF	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																		15.76037					
+Canada	CAN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																				18.75238			
+Central Europe and the Baltics	CEB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							18.956715			20.18842	21.18714	21.22888	21.5691	21.961775	20.98652	21.17595	22.922695	24.33312	24.39791	23.050375			
+Switzerland	CHE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							27.54772	26.80633	26.20355	26.83038	28.27078	28.06494	26.82085	26.94023	25.35696	24.29509	29.81971	28.61699	27.94575	27.49134			
+Channel Islands	CHI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Chile	CHL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							13.82698		14.10755		14.95804	15.1867	13.44085	12.60504	11.79161	12.79014	15.21467	16.61489	15.36494	15.29092	17.93649		
+China	CHN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								11.54033															
+Cote d'Ivoire	CIV	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								40.17354															
+Cameroon	CMR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																														37.5573	40.05511	34.48002	27.30533	31.17082		20.91326	20.63278		
+"Congo, Rep."	COG	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											16.37476												
+Colombia	COL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							14.07504	16.14452	12.98127		13.87426		15.28906	14.50415	11.01576	10.00668	14.88088	15.25155	15.36488	14.79662	15.22652		
+Comoros	COM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											25.10578												
+Cabo Verde	CPV	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											20.53119		18.36037		17.71367	16.78036	15.79946	13.98511		14.78203			
+Costa Rica	CRI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								21.43192	18.91518	20.67699	22.90086		17.02247				12.80602	14.3915					
+Caribbean small states	CSS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																												20.0041	17.53223	18.74788		19.92075	26.76937	22.99211	23.98166	25.75061			
+Cuba	CUB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								37.18872	41.24327	40.62663	44.11457		44.32599	47.90196	42.85576	53.75045	53.91162	51.01792	52.11495				
+Curacao	CUW	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Cayman Islands	CYM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Cyprus	CYP	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								28.21276	29.31878	30.24131	33.57489	37.31911	34.94188	36.61926	36.72145	36.66631	38.33543	40.72946	40.74865				
+Czech Republic	CZE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							19.643	20.97338	20.38733	20.18842	21.51252	22.27112	22.09052	21.89916	22.1035	21.17595	21.74455	24.33312	24.31883	25.15248			
+Germany	DEU	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							20.70345								20.98846	21.82719	21.82719	24.72287	24.69563				
+Djibouti	DJI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Dominica	DMA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																12.76276	15.01902	13.71398	15.49429				
+Denmark	DNK	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							37.8811	38.12589	38.16411	34.79511	35.79973	34.78075	35.37861	35.15877	34.56976	32.15128	31.28555	32.97764					
+Dominican Republic	DOM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																													3.30835	5.01719		4.10351	6.39385	7.22454	6.80015	7.03099	8.45693		
+Algeria	DZA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								21.51123	17.74353		18.22803	18.26467											
+East Asia & Pacific (developing only)	EAP	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+East Asia & Pacific (all income levels)	EAS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																	14.74617						
+Europe & Central Asia (developing only)	ECA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Europe & Central Asia (all income levels)	ECS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											24.83194	24.77874	24.94628	25.20073	25.35696	24.32237	27.37491	28.88527	27.48354				
+Ecuador	ECU	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								8.48769	5.32311										14.82205	17.64557			
+"Egypt, Arab Rep."	EGY	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Euro area	EMU	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							22.3504	25.129255	23.24949	24.514425	24.663775	24.43283	26.00743	26.30927	26.58162	24.70307	27.76575	30.33445	29.35728	27.96433			
+Eritrea	ERI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										36.75907	34.9845	26.24719	15.96441										
+Spain	ESP	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							24.22268	24.38439	23.24949	22.6768	23.45743	23.7865	23.76832	23.42128	24.0015	24.32237	26.04125	28.46052	26.93483				
+Estonia	EST	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							22.3504	27.26349		24.91026	24.83194	25.96167	24.83195	23.15443		23.22074	29.34054	32.62905	31.85088	27.64621			
+Ethiopia	ETH	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																			10.3886				
+European Union	EUU	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							22.029875	24.38439	23.595465	24.166805	24.49561	24.08692	24.83195	24.21026	24.91066	24.32237	27.51657	29.47341	27.48354	25.888			
+Fragile and conflict affected situations	FCS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Finland	FIN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								25.87412	23.94144	25.20718	26.14683	27.07756	32.33388	32.20125	31.76373	30.70287	32.16584	36.1065	36.53195	36.20855			
+Fiji	FJI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																													16.13281							5.75486			
+France	FRA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								29.54541	29.17801	29.11602	29.33749	30.68564	30.15365	27.97724	27.95333	27.3837	27.87327	29.47341	29.24319	27.96433			
+Faeroe Islands	FRO	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+"Micronesia, Fed. Sts."	FSM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Gabon	GAB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+United Kingdom	GBR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							25.43385	23.43701	24.03777	24.21502	25.87106	27.35475	25.93485	25.40222	26.6168	27.77654	28.58998	30.71173	33.81344				
+Georgia	GEO	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																	15.49384						
+Ghana	GHA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										39.72129			41.97668	37.6626	29.577	26.76419	26.21772	26.08056					
+Guinea	GIN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																	6.63011			11.49257	9.89188		
+"Gambia, The"	GMB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																	13.82016	12.22266	13.13974				
+Guinea-Bissau	GNB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Equatorial Guinea	GNQ	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										2.84194													
+Greece	GRC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							13.9777	15.62727	20.30669	18.38707	17.87534	20.21285	20.69563	21.54991									
+Grenada	GRD	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																												9.58041											
+Greenland	GRL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Guatemala	GTM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									4.26321	5.23126	3.98171		4.24023	4.32916	4.84295	5.90296	6.17152		5.50289	4.83197			
+Guam	GUM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Guyana	GUY	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																10.62907		10.24895	11.9288	10.95437	9.82979		
+High income	HIC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							21.621875	23.50377	22.78162	23.01049	23.45743	23.7865	23.53136	22.159925	23.09092	23.34425	25.02582	26.90851	27.10844	25.001795			
+"Hong Kong SAR, China"	HKG	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										17.41735	17.78581	19.26361	20.44123	19.20373	17.47458	16.04932	15.25835	16.39737	17.50433	17.55272	17.31339		
+Honduras	HND	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Heavily indebted poor countries (HIPC)	HPC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Croatia	HRV	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Haiti	HTI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Hungary	HUN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							18.27043	18.97133	20.44417	19.87562	20.86176	26.64071	23.54051	23.16164	23.3089	23.49982	22.95695	22.8308	21.81015	20.94827			
+Indonesia	IDN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																9.43199	9.37499	10.93441	8.77396	7.66586	10.67624		
+Isle of Man	IMN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+India	IND	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								24.63942	24.58912	23.21726		19.65584	17.73541	16.68555	16.17595			13.025	13.56898	13.49462			
+Not classified	INX	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Ireland	IRL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							17.26282	16.76461	16.29241	17.202	17.88009	19.15941	20.94099	21.57338	22.4623	23.4222	27.87532	30.05199	29.35728	28.94352			
+"Iran, Islamic Rep."	IRN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										10.17875	12.07382	12.11421	12.69228	12.50708	18.88453	22.55661	20.52577	20.28263	20.9662	16.3686	15.85879		
+Iraq	IRQ	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Iceland	ISL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								19.11253	18.96302	21.45963	22.43214	21.82901	23.07778	22.75389	22.73317	21.69534	21.82717	22.65853	21.13623				
+Israel	ISR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								19.79663	18.85003	19.74193	20.18351	19.58019	19.10113	18.2426	17.59826	16.29701	17.31394	16.04288	15.43641	15.47602			
+Italy	ITA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							27.36139	27.55696	26.49263	29.96186	26.81896	28.25541	27.06858	26.64697	28.3022	25.07067	26.60564	26.62605	25.25909	23.91463			
+Jamaica	JAM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																												20.0041	17.53223	18.74788		19.92075	26.76937	22.99211	23.98166	25.75061			
+Jordan	JOR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								15.81733			17.00903	18.75514	17.58959	19.0622	16.27762	16.14319	14.78937		21.9739	15.0625			
+Japan	JPN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							19.84639	20.5739	20.85414	20.94582	21.62423	22.23832	22.27578	22.15156	22.27657	22.41396	22.38956		24.32048	25.27951	25.79122		
+Kazakhstan	KAZ	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Kenya	KEN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									14.37943	15.80512		20.33649	22.27		21.16667								
+Kyrgyz Republic	KGZ	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Cambodia	KHM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							10.91395			6.09143													
+Kiribati	KIR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+St. Kitts and Nevis	KNA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+"Korea, Rep."	KOR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							14.94724	15.65875		20.27548	22.63936	23.74902	23.53136	21.88771	22.19626	22.22234	23.38204	23.81385		24.85111			
+Kosovo		"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Kuwait	KWT	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											19.57014	18.22184	15.71612	15.42553	13.22512		14.25404			20.93804			
+Latin America & Caribbean (developing only)	LAC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									14.45398		13.41019		13.80766	13.14855	10.499	14.24401	14.446925	16.309015	15.52146	16.05164			
+Lao PDR	LAO	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								4.46579			9.29239												
+Lebanon	LBN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																														8.23643							3.73006		
+Liberia	LBR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Libya	LBY	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+St. Lucia	LCA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								24.71673					18.10588					17.6122	20.73305	22.60935	22.82146		
+Latin America & Caribbean (all income levels)	LCN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									13.54441		13.41019		13.11657	12.60504	10.85053	13.517075	14.88088	16.60619	15.36494	15.67128			
+Least developed countries: UN classification	LDC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Low income	LIC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Liechtenstein	LIE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																												10.98745	10.89737		10.68793	10.11168	12.2501						
+Sri Lanka	LKA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																			8.55944	8.32357	6.8665		
+Lower middle income	LMC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Low & middle income	LMY	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Lesotho	LSO	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								77.11753	79.46895	64.03253				57.50284	50.42892		51.21034						
+Lithuania	LTU	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																												19.84729	20.76089	19.44345	19.57776	19.28329	21.55791	26.16006	21.95876	19.56154			
+Luxembourg	LUX	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																												23.73794	22.78863	22.4256	20.15812	18.34959	22.71026		20.33723				
+Latvia	LVA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							24.98255	23.74678	23.16935	24.11859	25.23379	24.08692	23.50571		18.71972	23.34425	27.65823	30.68084	27.48354	25.82273			
+"Macao SAR, China"	MAC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									11.22156														
+St. Martin (French part)	MAF	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Morocco	MAR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							45.23904	45.4	44.69595	43.07104	44.34436	42.24142	39.60705			38.66139	33.5879	30.72887					
+Monaco	MCO	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							6.98138	6.9177	6.69369				6.17598					6.2365	6.12245	9.96824			
+Moldova	MDA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																38.35193	31.61281	39.37079	39.35366	38.2897	37.93721		
+Madagascar	MDG	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																														21.44475	15.36103	12.47772	13.57351	11.54047		10.21965	8.33965		
+Maldives	MDV	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Middle East & North Africa (all income levels)	MEA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											19.57014												
+Mexico	MEX	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							15.36063	12.35222		16.94811	14.49365	15.85731	14.82303	15.49752	14.55823	14.24401	14.01297	16.01184	15.91582	16.05164			
+Marshall Islands	MHL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											27.69191												
+Middle income	MIC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+"Macedonia, FYR"	MKD	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Mali	MLI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							61.07476	54.33541									35.65522	34.11403	28.5825	31.09311			
+Malta	MLT	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							19.97204				22.23444		18.52793			29.36808	33.07046		35.23689				
+Myanmar	MMR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										7.15581		2.8903											
+Middle East & North Africa (developing only)	MNA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											19.85606												
+Montenegro	MNE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Mongolia	MNG	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																													10.63811						17.82008	16.42775			
+Northern Mariana Islands	MNP	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Mozambique	MOZ	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																															85.97755								
+Mauritania	MRT	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								32.57517						21.85004			34.04237		32.36316	23.18052			
+Mauritius	MUS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										14.18997	12.80029	18.2644	17.95192	17.68823	16.96932		15.19592	14.92062	19.4113	16.84727	19.03132		
+Malawi	MWI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								9.68843	25.4558	22.15807									22.09626	33.1841			
+Malaysia	MYS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									21.88317	26.62436	27.23821	25.30057	20.4076		13.87463	13.82196	12.02686	21.39179	18.64887	19.86584			
+North America	NAC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							21.5344	21.43742	21.84634	22.97779	23.42085	24.50079	23.34494	21.90915	23.22086	23.27831	23.93708	24.46768	24.34197	18.75238			
+Namibia	NAM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								36.48371	34.335	28.76055	23.58167	22.37958			18.9485		15.80499						
+New Caledonia	NCL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																								3.6529	3.67807		4.22486	4.27501		1.44332	1.95553	1.88138	2.2816																						
+Niger	NER	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																															45.30081	51.04791	49.01007	56.49437	41.17391	49.23596	46.66289		
+Nigeria	NGA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Nicaragua	NIC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																														2.98478	3.50987				7.57534				
+Netherlands	NLD	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							21.70935	22.2506	22.78162	23.01049	23.48945	23.85013	24.94628	24.99924	24.91066	24.33547	24.96798	27.19097	27.40095	25.888	25.78243		
+High income: nonOECD	NOC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Norway	NOR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							30.34906				30.53633	32.25801	29.89741	28.53574	25.77007	26.12764	25.08366	28.88527	27.28205				
+Nepal	NPL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								12.49362	10.99443	13.07048	10.18269	9.09104					10.35059	12.16796					
+New Zealand	NZL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								23.57053	22.1888	22.54549	20.32946	20.65048	21.94673	20.96835	20.03926	19.1353	17.77696	18.72099	23.3606	23.21696	25.27334		
+High income: OECD	OEC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							21.70935	23.57053	22.78162	23.68715	23.915175	24.17546	24.83195	23.287855	24.0015	23.858645	25.562455	28.46052	27.28205	25.27951			
+OECD members	OED	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							21.5344	23.43701	22.48521	23.01049	23.47344	24.17546	23.76832	23.158035	23.3089	23.46101	25.02582	27.19097	26.93483	25.15248			
+Oman	OMN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							20.85119	20.06151		18.13924	16.23585			12.37497				14.37758		15.89105			
+Other small states	OSS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										30.64129				44.02492	29.25079		15.80499						
+Pakistan	PAK	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Panama	PAN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								19.74671	22.28488	14.65039	16.40871		12.79229			15.75698				10.26824			
+Peru	PER	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							10.80417			9.20113	8.6664	9.83373	10.08305	9.58587	9.98224	9.71034	9.77068	10.62227	10.15484	8.91825	10.10287		
+Philippines	PHL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									10.27207	9.0454	8.88041	9.78325	8.79719	8.85301		8.77856	9.13996						
+Palau	PLW	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Papua New Guinea	PNG	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Poland	POL	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							10.90769				19.86825	19.75166	21.5691	22.16829	23.09092	21.97931	22.88844	24.23159	24.6695				
+Puerto Rico	PRI	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+"Korea, Dem. Rep."	PRK	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Portugal	PRT	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								26.61606	27.70178	29.15138	29.39478	30.0739	33.37997	33.34009	32.59749	31.24394	31.42176	38.70591	36.31416				
+Paraguay	PRY	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									15.92669	13.45382	11.77534	12.51376	11.28166			14.42658			15.67804	17.01125			
+Pacific island small states	PSS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+French Polynesia	PYF	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS															3.18692	3.35596									2.02701					1.63707	1.82113	1.84878	2.36865	2.45085																					
+Qatar	QAT	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																		10.29201					
+Romania	ROU	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																												13.44606	14.52902	15.69597		16.01012		16.56729	14.00914	11.89818			
+Russian Federation	RUS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Rwanda	RWA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									44.25031							31.94039	34.14451		37.97904	40.03576	36.4267		
+South Asia	SAS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								12.49362	10.99443			13.41698						12.18443	13.56898	13.49462			
+Saudi Arabia	SAU	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																18.11314							
+Sudan	SDN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Senegal	SEN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							35.20068							31.97518	31.25658		25.54126		28.95459				
+Singapore	SGP	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																	14.23399	15.88551	17.00082				
+Solomon Islands	SLB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Sierra Leone	SLE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+El Salvador	SLV	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							8.00134		7.48636		9.64578	8.94879		9.20748	7.99543	9.40995	9.40995	12.69919	11.30593				
+San Marino	SMR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Somalia	SOM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Serbia	SRB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																13.57636	13.91667	14.38863	14.01155	14.06141			
+Sub-Saharan Africa (developing only)	SSA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+South Sudan	SSD	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Sub-Saharan Africa (all income levels)	SSF	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Small states	SST	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																														41.90532			21.28718						
+Sao Tome and Principe	STP	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Suriname	SUR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Slovak Republic	SVK	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								18.42349	16.06669	16.58619	18.49947	17.44199	16.84928	15.26139	14.80244	14.70891	15.01965	18.23962	19.47527	18.41382			
+Slovenia	SVN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																										25.56887	24.49561	24.77874							31.26359	31.43475			
+Sweden	SWE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							28.32867	26.06589	25.69634	25.50879	25.62788	25.64148	33.35994	32.3079	31.51099	30.63463	30.86594	33.03442	31.87407				
+Swaziland	SWZ	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								23.16278	26.116	32.52203	27.52734	48.29447	31.36674	41.90532	39.55308		34.53199		34.80968	40.79627			
+Sint Maarten (Dutch part)	SXM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Seychelles	SYC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							24.02645				15.07131	17.09986								7.11268			
+Syrian Arab Republic	SYR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							18.50307	21.54271	23.31194		24.23854					13.40291		14.95403					
+Turks and Caicos Islands	TCA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Chad	TCD	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							29.22487						24.90286	24.55307				17.66323	14.79225	20.87948			
+Togo	TGO	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								28.24938	24.85394							17.55376				15.71446			
+Thailand	THA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							18.9153			15.95169			15.85624				7.48592	8.94243	14.8314	25.88772	37.41458		
+Tajikistan	TJK	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Turkmenistan	TKM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Timor-Leste	TLS	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Tonga	TON	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																											7.63346	8.7786	7.44064										
+Trinidad and Tobago	TTO	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Tunisia	TUN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								24.59279	24.19065	23.51441	21.48409	23.5007	21.0305	21.70744			24.4209						
+Turkey	TUR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Tuvalu	TUV	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Tanzania	TZA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																			16.2465				
+Uganda	UGA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																													32.10548					20.66213					
+Ukraine	UKR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																				27.46227			
+Upper middle income	UMC	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																													15.749645				15.500455	17.3301					
+Uruguay	URY	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								10.45691	10.00351	9.58391	8.00892	6.49868	8.45562	9.91775	10.6853								
+United States	USA	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																							21.5344	21.43742	21.84634	22.97779	23.42085	24.50079	23.34494	21.90915	23.22086	23.27831	23.93708	24.46768	24.34197				
+Uzbekistan	UZB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+St. Vincent and the Grenadines	VCT	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																									22.40706				14.11349	22.37619		17.4828		21.90378	17.81423	18.515			
+"Venezuela, RB"	VEN	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																															8.35308	8.08001		16.60619					
+Virgin Islands (U.S.)	VIR	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Vietnam	VNM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Vanuatu	VUT	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								71.70467	61.34954	88.93907													
+West Bank and Gaza	PSE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+World	WLD	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Samoa	WSM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								10.00322	9.48843	10.31499													
+"Yemen, Rep."	YEM	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																				11.16579			
+South Africa	ZAF	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																								20.04302	17.71404	17.50244	17.16385	18.76965	19.63744	17.61558	16.83299	17.57045	16.08875	18.05401	20.08922				
+"Congo, Dem. Rep."	COD	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																			15.07091				
+Zambia	ZMB	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							
+Zimbabwe	ZWE	"Expenditure per student, secondary (% of GDP per capita)"	SE.XPD.SECO.PC.ZS																																																							

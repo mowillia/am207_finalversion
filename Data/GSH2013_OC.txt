@@ -1,0 +1,249 @@
+Country Name		Indicator Name		1960	1961	1962	1963	1964	1965	1966	1967	1968	1969	1970	1971	1972	1973	1974	1975	1976	1977	1978	1979	1980	1981	1982	1983	1984	1985	1986	1987	1988	1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014
+Aruba		Intentional homicide victims killed by gangs or organised criminal groups as percentage of total homicide victims by country/territory (2005-2012)																																																								
+Andorra			CTS																																																	0	0	0				
+Afghanistan																																																										
+Angola																																																										
+Albania		Southern Europe	CTS																																														0	0	0	0	0	0	0			
+Arab World																																																										
+United Arab Emirates																																																										
+Argentina																																																										
+Armenia		Western Asia	CTS																																														0	0.03	0.04	0.01	0.05	0	0	0		
+American Samoa																																																										
+Antigua and Barbuda																																																										
+Australia	Asia and Oceania	Australia and New Zealand	CTS																																														0.03	0.04	0.04	0.02	0.02					
+Austria																																																										
+Azerbaijan			CTS																																																			0.02				
+Burundi																																																										
+Belgium																																																										
+Benin																																																										
+Burkina Faso																																																										
+Bangladesh																																																										
+Bulgaria	Europe	Eastern Europe	CTS																																														0	0.02	0.03	0.01	0.03	0.03	0.02	0.01		
+Bahrain																																																										
+"Bahamas, The"	Americas	Caribbean	CTS																																														0.37	0.43	0.42	0.44	0.49	0.68	0.65			
+Bosnia and Herzegovina																																																										
+Belarus																																																										
+Belize		Central America	National Police																																														0.14	0.29	0.13	0.15	0.11	0.37				
+Bermuda																																																										
+Bolivia																																																										
+Brazil																																																										
+Barbados			National Police																																														0.17	0.23	0.24	0.04	0.16	0.1				
+Brunei Darussalam																																																										
+Bhutan																																																										
+Botswana																																																										
+Central African Republic																																																										
+Canada		Northern America	CTS																																														0.34	0.36	0.42	0.49	0.45	0.37	0.34			
+Central Europe and the Baltics																																																										
+Switzerland			CTS																																																		0	0	0			
+Channel Islands																																																										
+Chile																																																										
+China																																																										
+Cote d'Ivoire																																																										
+Cameroon																																																										
+"Congo, Rep."																																																										
+Colombia		South America	CTS																																														0.13	0.05	0.04	0.04	0.08	0.09	0.06			
+Comoros																																																										
+Cabo Verde																																																										
+Costa Rica			CTS/SES																																																	0.33	0.31	0.35	0.37			
+Caribbean small states																																																										
+Cuba																																																										
+Curacao																																																										
+Cayman Islands																																																										
+Cyprus			CTS																																																				0			
+Czech Republic			CTS																																																0	0	0	0	0			
+Germany																																																										
+Djibouti																																																										
+Dominica																																																										
+Denmark																																																										
+Dominican Republic			CTS																																																			0.02	0.03	0.01		
+Algeria																																																										
+East Asia & Pacific (developing only)																																																										
+East Asia & Pacific (all income levels)																																																										
+Europe & Central Asia (developing only)																																																										
+Europe & Central Asia (all income levels)																																																										
+Ecuador																																																										
+"Egypt, Arab Rep."																																																										
+Euro area																																																										
+Eritrea																																																										
+Spain			CTS																																																				0.01	0.02		
+Estonia																																																										
+Ethiopia																																																										
+European Union																																																										
+Fragile and conflict affected situations																																																										
+Finland		Northern Europe	CTS																																														0.03	0.01	0	0.01	0	0.01	0.02			
+Fiji																																																										
+France		Western Europe	Institut national des hautes etudes de la securite et de la justice																																														0.1	0.1	0.07	0.15						
+Faeroe Islands																																																										
+"Micronesia, Fed. Sts."																																																										
+Gabon																																																										
+United Kingdom																																																										
+Georgia			CTS																																																			0				
+Ghana																																																										
+Guinea																																																										
+"Gambia, The"																																																										
+Guinea-Bissau																																																										
+Equatorial Guinea																																																										
+Greece																																																										
+Grenada			CTS																																																0	0.06	0.29	0.2	0	0		
+Greenland																																																										
+Guatemala																																																										
+Guam																																																										
+Guyana																																																										
+High income																																																										
+"Hong Kong SAR, China"		Eastern Asia	National Police																																														0.01	0.01	0.01	0.01						
+Honduras			Ministerio Publico																																																0.21	0.37	0.34	0.35				
+Heavily indebted poor countries (HIPC)																																																										
+Croatia																																																										
+Haiti																																																										
+Hungary			CTS																																														0	0.01	0.01	0	0.01	0	0	0.01		
+Indonesia																																																										
+Isle of Man																																																										
+India																																																										
+Not classified																																																										
+Ireland																																																										
+"Iran, Islamic Rep."																																																										
+Iraq																																																										
+Iceland			CTS																																																					0		
+Israel																																																										
+Italy			CTS																																														0.18	0.17	0.19	0.17	0.15	0.13	0.1			
+Jamaica			CTS																																															0.33	0.51	0.45	0.52	0.28	0.5			
+Jordan																																																										
+Japan			National Police																																														0.25	0.23	0.2	0.23						
+Kazakhstan																																																										
+Kenya																																																										
+Kyrgyz Republic																																																										
+Cambodia																																																										
+Kiribati																																																										
+St. Kitts and Nevis			National Police																																														0	0.41	0.38	0.39	0.7					
+"Korea, Rep."																																																										
+Kosovo																																																										
+Kuwait																																																										
+Latin America & Caribbean (developing only)																																																										
+Lao PDR																																																										
+Lebanon																																																										
+Liberia																																																										
+Libya																																																										
+St. Lucia																																																										
+Latin America & Caribbean (all income levels)																																																										
+Least developed countries: UN classification																																																										
+Low income																																																										
+Liechtenstein			CTS (Victims)																																																			0				
+Sri Lanka		Southern Asia	NGO																																															0.39								
+Lower middle income																																																										
+Low & middle income																																																										
+Lesotho																																																										
+Lithuania																																																										
+Luxembourg			CTS																																																0.14	0.13	0.4	0	0			
+Latvia																																																										
+"Macao SAR, China"																																																										
+St. Martin (French part)																																																										
+Morocco																																																										
+Monaco																																																										
+Moldova																																																										
+Madagascar																																																										
+Maldives																																																										
+Middle East & North Africa (all income levels)																																																										
+Mexico			NSO/Presidencia																																																0.28	0.52						
+Marshall Islands																																																										
+Middle income																																																										
+"Macedonia, FYR"			CTS																																															0.02		0.03						
+Mali																																																										
+Malta																																																										
+Myanmar																																																										
+Middle East & North Africa (developing only)																																																										
+Montenegro			CTS																																																0	0			0			
+Mongolia			CTS																																																0.06	0.06	0.05	0.02	0			
+Northern Mariana Islands																																																										
+Mozambique																																																										
+Mauritania																																																										
+Mauritius																																																										
+Malawi																																																										
+Malaysia																																																										
+North America																																																										
+Namibia																																																										
+New Caledonia																																																										
+Niger																																																										
+Nigeria																																																										
+Nicaragua			National Police																																																	0.04	0.04					
+Netherlands			National Police																																														0.13	0.16	0.07	0.12	0.11					
+High income: nonOECD																																																										
+Norway																																																										
+Nepal																																																										
+New Zealand																																																										
+High income: OECD																																																										
+OECD members																																																										
+Oman																																																										
+Other small states																																																										
+Pakistan																																																										
+Panama			CTS																																														0.27	0.39	0.31	0.53	0.46	0.25	0.37	0.52		
+Peru																																																										
+Philippines																																																										
+Palau																																																										
+Papua New Guinea																																																										
+Poland			CTS																																																		0.03	0.03	0.02			
+Puerto Rico																																																										
+"Korea, Dem. Rep."																																																										
+Portugal																																																										
+Paraguay																																																										
+Pacific island small states																																																										
+French Polynesia																																																										
+Qatar																																																										
+Romania																																																										
+Russian Federation																																																										
+Rwanda																																																										
+South Asia																																																										
+Saudi Arabia																																																										
+Sudan																																																										
+Senegal																																																										
+Singapore		South-Eastern Asia	CTS																																															0.06	0	0	0	0.11	0			
+Solomon Islands																																																										
+Sierra Leone																																																										
+El Salvador			CTS																																																0.04	0.01	0.09	0.16	0.06	0.17		
+San Marino																																																										
+Somalia																																																										
+Serbia																																																										
+Sub-Saharan Africa (developing only)																																																										
+South Sudan																																																										
+Sub-Saharan Africa (all income levels)																																																										
+Small states																																																										
+Sao Tome and Principe		Middle Africa	CTS																																															0	0	0	0	0	0			
+Suriname																																																										
+Slovak Republic																																																										
+Slovenia			CTS																																														0	0	0	0	0	0	0.06	0		
+Sweden			National Council for Crime Prevention																																																			0.13				
+Swaziland																																																										
+Sint Maarten (Dutch part)																																																										
+Seychelles																																																										
+Syrian Arab Republic																																																										
+Turks and Caicos Islands																																																										
+Chad																																																										
+Togo																																																										
+Thailand																																																										
+Tajikistan																																																										
+Turkmenistan																																																										
+Timor-Leste			UN-PKO																																																			0.05				
+Tonga																																																										
+Trinidad and Tobago			CTS																																															0.43	0.53	0.49	0.31	0.16	0.26			
+Tunisia																																																										
+Turkey																																																										
+Tuvalu																																																										
+Tanzania																																																										
+Uganda																																																										
+Ukraine																																																										
+Upper middle income																																																										
+Uruguay			CTS																																																				0.13			
+United States			CTS																																														0.05	0.06	0.04	0.05	0.06	0.06	0.05			
+Uzbekistan																																																										
+St. Vincent and the Grenadines																																																										
+"Venezuela, RB"																																																										
+Virgin Islands (U.S.)																																																										
+Vietnam			CTS																																														0	0								
+Vanuatu																																																										
+West Bank and Gaza																																																										
+World																																																										
+Samoa																																																										
+"Yemen, Rep."																																																										
+South Africa																																																										
+"Congo, Dem. Rep."																																																										
+Zambia	Africa	Eastern Africa	National Police																																														0	0.02	0.02	0.07	0.03	0.05				
+Zimbabwe																																																										

@@ -1,0 +1,38 @@
+(First Slide)
+The goal of the second part of the project was to apply a Bayesian analysis to a model predicting life expectancy based on a number of factors in order to optimize the prediction. To obtain these factors a simulated annealing algorithm was used and this algorithm was cross-checked with a stochastic gradient descent algorithm.
+
+(Second Slide)
+The simulated annealing algorithm was performed taking the negative coefficient of correlation as the energy and imposing an energy cost for having too few data points. The traceplot shown is for a run done imposing that the number of data points be at least 10 times the number of factors included in the fit for the total life expectancy in the year 2010. For the final data we imposed that the number of data points be at least 5 times the number of factors included in the fit.
+
+(Third Slide)
+We also performed a stochastic gradient descent algorithm. The trace plot for a run using all the factors for the 2010 data is shown in the figure. It suggests that the algorithm will be reasonably converged after 40 iterations. 
+
+The factors obtained for the simulated annealing algorithm for the year 2010 were 
+
+Poverty headcount ratio at $1.25 a day (PPP) (% of population)
+Employment to population ratio, 15+, total (%)
+Internet users (per 100 people)
+Literacy rate, youth female (% of females ages 15-24)
+Labor force participation rate, female (% of female population ages 15+)
+
+for comparison we found, 
+
+Labor force participation rate, male (% of male population ages 15+) 
+Vulnerable employment, total (% of total employment)
+Internet users (per 100 people)
+Improved water source, urban (% of urban population with access)
+Poverty gap at $1.25 a day (PPP) (%)
+
+with the stochastic gradient descent algorithm. For context vulnerable employment is unpaid family workers and self-employed workers with effectively no employees and poverty gap is the mean shortfall from the poverty line expressed as a percentage of the poverty line (in this case $1.25 a day).
+
+(Fourth Slide)
+This next figure shows a comparison using factors obtained for the total life expectancy in 2010 across male, female and total life expectancies. Negative bars indicate the factor is negatively correlated with the life expectancy while positive bars indicate the opposite.
+
+(Fifth Slide)
+Next we have a comparison using factors obtained for the total life expectancy in 2010 across total life expectancies in 2004, 2008, 2010, and data for all years.
+
+(Sixth slide)
+We next performed a Bayesian analysis with flat or conjugate priors and modeling the noise according to various distributions to obtain the smallest predictive interval and thus the greatest predictive power for the linear
+
+(Seventh Slide)
+In conclusion, the best model would be a linear model with t-distributed noise with 2 degrees of freedom with the factors displayed. 

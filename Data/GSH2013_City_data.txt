@@ -1,0 +1,249 @@
+Country Name		Indicator Name		1960	1961	1962	1963	1964	1965	1966	1967	1968	1969	1970	1971	1972	1973	1974	1975	1976	1977	1978	1979	1980	1981	1982	1983	1984	1985	1986	1987	1988	1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014
+Aruba		"Intentional homicide count and rate per 100,000 population in the most populous city, by country/territory (2005-2012)"																																																								
+Andorra			Rate																																																0	0	2.7	2.5	2.7			
+Afghanistan																																																										
+Angola																																																										
+Albania			Rate																																														5.7	4.5	5	4.3	6	7.9	6.7			
+Arab World																																																										
+United Arab Emirates			Rate																																														1.9	1.5								
+Argentina			Rate																																														4.3	3.8	3.9	4.6	4.9					
+Armenia			Rate																																																			1.5	1.8	1.7		
+American Samoa																																																										
+Antigua and Barbuda																																																										
+Australia			Rate																																														1.2	1.4	1.1							
+Austria			Rate																																														1.3	1.1	1.2	0.9	1.1	1	1.5	1.4		
+Azerbaijan			Rate																																														3.7	3.6	3.3	3.3		3.3				
+Burundi																																																										
+Belgium			Rate																																														3.1	3.6	1.9	4.1	3	2.8	2.1	2.6		
+Benin																																																										
+Burkina Faso																																																										
+Bangladesh			Rate																																														3.6	5.3								
+Bulgaria			Rate																																														3.1	2.2	1.9	2.2	2.1	1.6	1.5	1.8		
+Bahrain																																																										
+"Bahamas, The"			Rate																																														13.3	19.3	24.1	22.9	28.5	31.3	44.2			
+Bosnia and Herzegovina			Rate																																														1.8	2	2	2						
+Belarus			Rate																																														4.8	4.9	2.7	3.1	2.6					
+Belize			Rate																																														74.2	68.7	65.1	72.5	81	102.1	105.1			
+Bermuda																																																										
+Bolivia			Rate																																														5.5	5.2								
+Brazil			Rate																																														24.7	16.2	15	11.9	11.6	11.2	9.4	14.2		
+Barbados																																																										
+Brunei Darussalam			Rate																																														0	0.7								
+Bhutan																																																										
+Botswana			Rate																																																		16.1					
+Central African Republic																																																										
+Canada			Rate																																														1.9	1.8	1.9	1.8	1.5	1.4	1.3			
+Central Europe and the Baltics																																																										
+Switzerland			Rate																																																		1.1	3	0.3			
+Channel Islands																																																										
+Chile			Rate																																														4.5	3.9	4.8	3.8	4.2	3.4	3.9			
+China			Rate																																														0.5	0.5	0.3	0.5	0.7	0.5	0.2	0.4		
+Cote d'Ivoire																																																										
+Cameroon																																																										
+"Congo, Rep."																																																										
+Colombia			Rate																																														24	18.6	19.3	19.9	22.1	23	21.6	16.5		
+Comoros																																																										
+Cabo Verde																																																										
+Costa Rica			Rate																																															13.6	19.1	27.1	23.1	19.5	21.2	17.7		
+Caribbean small states																																																										
+Cuba																																																										
+Curacao																																																										
+Cayman Islands																																																										
+Cyprus			Rate																																														1	2.6	1	1	1	1.3	0.6	2		
+Czech Republic			Rate																																														1.2	1.7	1.7	1.2	1.5	1.3	0.8	1.4		
+Germany			Rate																																														1.8	1.5	1.2	1.2	1.8	1.1	1			
+Djibouti																																																										
+Dominica																																																										
+Denmark			Rate																																														1.2	0.8	0.6	0.7	1.1	0.3	1.3	1.1		
+Dominican Republic			Rate																																																					29.1		
+Algeria			Rate																																														0.8	0.8	1.4	1.7	1.3	1.1	1.4			
+East Asia & Pacific (developing only)																																																										
+East Asia & Pacific (all income levels)																																																										
+Europe & Central Asia (developing only)																																																										
+Europe & Central Asia (all income levels)																																																										
+Ecuador			Rate																																														11.4	13.8		11.9	11.1	14.4	11.4			
+"Egypt, Arab Rep."			Rate																																														0.2	0.4	0.6	0.8	0.7	1.8	2.4			
+Euro area																																																										
+Eritrea																																																										
+Spain			Rate																																														1.1	1.2	1.1	1.2	1	0.9	0.6	0.9		
+Estonia			Rate																																														10.1	5.3	8.8		7.3	5.5				
+Ethiopia																																																										
+European Union																																																										
+Fragile and conflict affected situations																																																										
+Finland			Rate																																														2.3	2.5	1.8	2.8	1.2	2	2.4	2		
+Fiji																																																										
+France			Rate																																														1.6	1.3	1.5	1.6	1.1	1.8	1.8	1.8		
+Faeroe Islands																																																										
+"Micronesia, Fed. Sts."																																																										
+Gabon																																																										
+United Kingdom			Rate																																														2.4	2.1	2.1	2.1	1.6	1.8	1.3			
+Georgia			Rate																																														13.1	7.8	8.2	4.9	5	3.4				
+Ghana			Rate																																																	1.3	1.3					
+Guinea																																																										
+"Gambia, The"																																																										
+Guinea-Bissau																																																										
+Equatorial Guinea																																																										
+Greece			Rate																																														1.4	1.3	2	2	2	2.3	2.4			
+Grenada																																																										
+Greenland																																																										
+Guatemala			Rate																																														111.4	115.7	121.3	112.8	120.3	116.6				
+Guam																																																										
+Guyana																																																										
+High income																																																										
+"Hong Kong SAR, China"																																																										
+Honduras			Rate																																																	62.5	73	92.9	102.2			
+Heavily indebted poor countries (HIPC)																																																										
+Croatia			Rate																																														2.1	1.4	0.8	1.9	0.6	1.3	1.4	1.3		
+Haiti			Rate																																																23.8	13.1	24.1	40.1				
+Hungary			Rate																																														1.8	1.8	1	1.5	2.1	1.9	1.8	1.6		
+Indonesia			Rate																																																	0.7	0.8	0.9	0.8			
+Isle of Man																																																										
+India			Rate																																														1.2	1.3	1.2	1.1	1.1	1.2				
+Not classified																																																										
+Ireland			Rate																																														2.6	2.7	2.5	2	2.1	2				
+"Iran, Islamic Rep."																																																										
+Iraq																																																										
+Iceland			Rate																																														1	0	1	0	0.5	0.5	1.5	0.5		
+Israel			Rate																																														6.1	3.8	4.3	4.6						
+Italy			Rate																																														1.3	1	1.1	1.1	1.1	0.3	1	0.9		
+Jamaica			Rate																																														50.8	86.7	111.5	98.3	97	67.7	50.3			
+Jordan			Rate																																														1.5	1.8								
+Japan			Rate																																														0.4	0.4	0.4	0.6	0.4	0.3	0.2			
+Kazakhstan			Rate																																														13.6	12.6	9.8	12.6	9.7	8.9	9.7	8.6		
+Kenya			Rate																																														7	6.1	4.1	3.9	4.4	4.5	6.1	6.1		
+Kyrgyz Republic			Rate																																														16.5	12.9	11.2	10.5	9.2	9.9	9			
+Cambodia																																																										
+Kiribati																																																										
+St. Kitts and Nevis			Rate																																														32.5	25.6	50.6	50	73.2	35.5	131.6			
+"Korea, Rep."			Rate																																															1.9	2.1	2.1	2.4	2.8	0.8			
+Kosovo																																																										
+Kuwait			Rate																																														1	1.1	1.3	1.2	1.2					
+Latin America & Caribbean (developing only)																																																										
+Lao PDR																																																										
+Lebanon																																																										
+Liberia			Rate																																																4.8	7	5.9	4.9				
+Libya																																																										
+St. Lucia																																																										
+Latin America & Caribbean (all income levels)																																																										
+Least developed countries: UN classification																																																										
+Low income																																																										
+Liechtenstein			Rate																																														0	0	0	0	0	0	0			
+Sri Lanka			Rate																																															2.6	2.2	2.2	1.2					
+Lower middle income																																																										
+Low & middle income																																																										
+Lesotho			Rate																																																64.1	59.7	61.9					
+Lithuania			Rate																																														7.8	5.8	7.4	10.4	5.4	4.7	4.1	3.5		
+Luxembourg			Rate																																														1.1	4.2	3.2	3.2	5.3	0	3.2			
+Latvia			Rate																																														4.8	6.3	4	4.2	5.2	3.3	2.7	4		
+"Macao SAR, China"																																																										
+St. Martin (French part)																																																										
+Morocco			Rate																																														1.2	0.8	1.1	1	1.4					
+Monaco			Rate																																														2.8	2.8	0	0						
+Moldova			Rate																																														7.3	7.2	6.5	4.6	5.5	5.3	4.4	5.2		
+Madagascar																																																										
+Maldives			Rate																																																6.7	5						
+Middle East & North Africa (all income levels)																																																										
+Mexico			Rate																																														7.9	7.3	8	8	8.4	9.2	8.8			
+Marshall Islands																																																										
+Middle income																																																										
+"Macedonia, FYR"			Rate																																														2.9	3.6	4	2.5	2.3	2.6	2.1			
+Mali																																																										
+Malta			Rate																																														0	0	0	0	0	15.9	0	0		
+Myanmar			Rate																																															2.9								
+Middle East & North Africa (developing only)																																																										
+Montenegro			Rate																																														6.5	5.9	3.7	3.6	4.1	3.5	3.5	3.5		
+Mongolia			Rate																																														16.8	15.6	14.1	10.5	8.9	10.5	11.9			
+Northern Mariana Islands																																																										
+Mozambique			Rate																																														9.7	6.9	8.4	4.8	3.5					
+Mauritania																																																										
+Mauritius			Rate																																														5.4	3.4	5.4	9.4	7.4	8.1	5.4			
+Malawi																																																										
+Malaysia			Rate																																														3	4.4								
+North America																																																										
+Namibia																																																										
+New Caledonia																																																										
+Niger																																																										
+Nigeria																																																										
+Nicaragua			Rate																																														11.7	14.1				18.7				
+Netherlands			Rate																																														3.2	2.3	3.6	1.5	3.2	1.3	1.5			
+High income: nonOECD																																																										
+Norway			Rate																																														1.6	1.6	1.4	2.1	1.2	0.9	3.2			
+Nepal			Rate																																														19.2	18.5								
+New Zealand			Rate																																														1.4	1.7	0.8	1.4	1	1.1	0.9	0.7		
+High income: OECD																																																										
+OECD members																																																										
+Oman			Rate																																																0.6	0.6						
+Other small states																																																										
+Pakistan																																																										
+Panama			Rate																																														15.9	14.9	18.1	27	34.6	30.6	60.2	53.1		
+Peru			Rate																																														6.2	5.9	8.4	6.5	5.7					
+Philippines			Rate																																														10.3	8.1	6.5	5.1	5.3					
+Palau																																																										
+Papua New Guinea																																																										
+Poland			Rate																																														2.2	2.1	2.2	1.5	2	1.6	2.1			
+Puerto Rico																																																										
+"Korea, Dem. Rep."																																																										
+Portugal			Rate																																														0.7	0.8	0.6	0.4	0.2	0.3	0.2	0.6		
+Paraguay			Rate																																														13.1	10.6	13.3	20.2	11	9.2				
+Pacific island small states																																																										
+French Polynesia																																																										
+Qatar			Rate																																																1.3	1.1						
+Romania			Rate																																														1.4	1.3	1.1	0.9	1	1.1	0.9	1.1		
+Russian Federation			Rate																																														7.1	7	5.7	5.6	4.2	4.2	3.8			
+Rwanda																																																										
+South Asia																																																										
+Saudi Arabia																																																										
+Sudan			Rate																																																	5						
+Senegal																																																										
+Singapore			Rate																																														0.5	0.4	0.4	0.6	0.4	0.4	0.3	0.2		
+Solomon Islands			Rate																																														5.2	20.8	33	19.1						
+Sierra Leone			Rate																																																5.8	8						
+El Salvador			Rate																																																				89.9	52.5		
+San Marino																																																										
+Somalia																																																										
+Serbia			Rate																																														3	3.1	3.1	2.5	1.5	1.4	2.2	1.3		
+Sub-Saharan Africa (developing only)																																																										
+South Sudan			Rate																																																					12		
+Sub-Saharan Africa (all income levels)																																																										
+Small states																																																										
+Sao Tome and Principe			Rate																																															3.6	3.6	3.6	5.3					
+Suriname																																																										
+Slovak Republic			Rate																																														2.6	3.5	3.8	2.3	2.1	1.9	3.2	2.9		
+Slovenia			Rate																																														1.5	0.4	1.1	0	0.4	1.1	1.4	0.7		
+Sweden																																																										
+Swaziland																																																										
+Sint Maarten (Dutch part)																																																										
+Seychelles																																																										
+Syrian Arab Republic			Rate																																																2.9	2.5						
+Turks and Caicos Islands																																																										
+Chad																																																										
+Togo																																																										
+Thailand			Rate																																														4.3	4.4	3.7	3.2	2.8	2.7				
+Tajikistan			Rate																																														6	4.5	4	2.9	2.9	3.7	3.6			
+Turkmenistan			Rate																																														3.6	3.5								
+Timor-Leste			Rate																																																			11.3				
+Tonga			Rate																																														17	33.8	4.2	12.5	16.5	4.1	8.1	4		
+Trinidad and Tobago			Rate																																														21.4	18.1	15.7	30	23.2	17	17.2			
+Tunisia																																																										
+Turkey			Rate																																														7.3	6.7	5.2	4.7						
+Tuvalu																																																										
+Tanzania			Rate																																														12.8									
+Uganda			Rate																																																	13.4	15.3	12				
+Ukraine			Rate																																														4.8	4.8	3.6	3.7	4.2	3.2				
+Upper middle income																																																										
+Uruguay			Rate																																															6.8	6.5	8	8.4	8	8.4			
+United States			Rate																																														6.5	7.1	5.9	6.3	5.6	6.4	6.3	5.1		
+Uzbekistan																																																										
+St. Vincent and the Grenadines																																																										
+"Venezuela, RB"			Rate																																														88	107	130.5	127	122					
+Virgin Islands (U.S.)																																																										
+Vietnam																																																										
+Vanuatu																																																										
+West Bank and Gaza																																																										
+World																																																										
+Samoa																																																										
+"Yemen, Rep."			Rate																																														5.5	5.5	4.7	3.9	3.8					
+South Africa			Rate																																														55.4	61	59.9							
+"Congo, Dem. Rep."			Rate																																																			1.6				
+Zambia			Rate																																														8.9	9	10.8	2.9	8.6	7				
+Zimbabwe																																																										

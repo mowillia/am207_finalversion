@@ -1,0 +1,251 @@
+Data Source	World Development Indicators																																																									
+																																																										
+Country Name	Country Code	Indicator Name	Indicator Code	1960	1961	1962	1963	1964	1965	1966	1967	1968	1969	1970	1971	1972	1973	1974	1975	1976	1977	1978	1979	1980	1981	1982	1983	1984	1985	1986	1987	1988	1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014
+Aruba	ABW	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Andorra	AND	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Afghanistan	AFG	Income share held by highest 10%	SI.DST.10TH.10																																																23.21							
+Angola	AGO	Income share held by highest 10%	SI.DST.10TH.10																																									44.74								32.37						
+Albania	ALB	Income share held by highest 10%	SI.DST.10TH.10																																					22.71						25.44		24.41	25.04			24.46				22.93		
+Arab World	ARB	Income share held by highest 10%	SI.DST.10TH.10																																																							
+United Arab Emirates	ARE	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Argentina	ARG	Income share held by highest 10%	SI.DST.10TH.10																											32.43	34.42				36.6	34.29	33.2	34.44	36.96	36.87	36.36	38.05	37.05	37.7	39.46	40.51	39.9	36.66	36.32	35.38	34.92	33.65	32.56	32.42	31.84			
+Armenia	ARM	Income share held by highest 10%	SI.DST.10TH.10																																					35.22		29.57			29.1	29	28.2	31.69	30.62	27.47	24.28	25.27	24.36	26.21	26.13	24.76		
+American Samoa	ASM	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Antigua and Barbuda	ATG	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Australia	AUS	Income share held by highest 10%	SI.DST.10TH.10																										24.29				24.7						24.87						25.24		25.23											
+Austria	AUT	Income share held by highest 10%	SI.DST.10TH.10																												19.31							24.66	22.43		23.48			22.76				23.96										
+Azerbaijan	AZE	Income share held by highest 10%	SI.DST.10TH.10																																				27.04						29.66	17.59	17.96	17.14	17.41			26.64						
+Burundi	BDI	Income share held by highest 10%	SI.DST.10TH.10																																	26.59						32.87								28.04								
+Belgium	BEL	Income share held by highest 10%	SI.DST.10TH.10																										20.61			21.03				20.15			22.87		21.6			28.34														
+Benin	BEN	Income share held by highest 10%	SI.DST.10TH.10																																												31.24								34.86			
+Burkina Faso	BFA	Income share held by highest 10%	SI.DST.10TH.10																																			42.1				39.85					33.97						32.15					
+Bangladesh	BGD	Income share held by highest 10%	SI.DST.10TH.10																									21.87	23.41			24.58			23.2				28.11					28.11					28.12					27.03				
+Bulgaria	BGR	Income share held by highest 10%	SI.DST.10TH.10																														20.03			24.71		20.99	26.09		22.77				25.35		23.63				22.16	25.67		26.95	26.03			
+Bahrain	BHR	Income share held by highest 10%	SI.DST.10TH.10																																																							
+"Bahamas, The"	BHS	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Bosnia and Herzegovina	BIH	Income share held by highest 10%	SI.DST.10TH.10																																										24.82			26.36			25.09							
+Belarus	BLR	Income share held by highest 10%	SI.DST.10TH.10																													19.2					19.41		22.55			22.29	22.49	22.03	22.73	23.84	22.66	21.23	21.69	22.32	23.01	21.95	22.58	22.34	21.47			
+Belize	BLZ	Income share held by highest 10%	SI.DST.10TH.10																																		50.68	52.56	45.85	46.88	46.38	43.75	42.32															
+Bermuda	BMU	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Bolivia	BOL	Income share held by highest 10%	SI.DST.10TH.10																															31.74			43.13				45.36		42.6	49	45.45	47.26		43.92	45.14	43.74	42.71	39.12	37.1		33.8	33.55		
+Brazil	BRA	Income share held by highest 10%	SI.DST.10TH.10																									46.53	42.54	46.57	47.38	49.19	51.15	48.07		39.69	48.44		47.54	47.35	47.39	47.59	47		47.32	46.83	46	45.06	45.15	44.48	43.57	42.93	42.45		41.89	41.67		
+Barbados	BRB	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Brunei Darussalam	BRN	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Bhutan	BTN	Income share held by highest 10%	SI.DST.10TH.10																																												37.56				29.36					30.75		
+Botswana	BWA	Income share held by highest 10%	SI.DST.10TH.10																										42.93									51.19									53.08						49.61					
+Central African Republic	CAF	Income share held by highest 10%	SI.DST.10TH.10																																	47.73											33.03					46.13						
+Canada	CAN	Income share held by highest 10%	SI.DST.10TH.10																												23.9				23.66			23.68			23.88	25.43		25.63				25.63			26.06			25.74				
+Central Europe and the Baltics	CEB	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Switzerland	CHE	Income share held by highest 10%	SI.DST.10TH.10																																	27.15								25.99		24.21		24.23										
+Channel Islands	CHI	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Chile	CHL	Income share held by highest 10%	SI.DST.10TH.10																												45.39			47.05		45.07		45.91		44.43		44.97		45.29			45.07			41.96			42.76		41.72			
+China	CHN	Income share held by highest 10%	SI.DST.10TH.10																									21.6			22.59			25.27			27.44			27.55			29.72			31.67			31.97			31.05		29.98				
+Cote d'Ivoire	CIV	Income share held by highest 10%	SI.DST.10TH.10																										35.73	30.7	32.08	28.46					29.66		28.8			30.43				33.2						32.87						
+Cameroon	CMR	Income share held by highest 10%	SI.DST.10TH.10																																					36.53					33.77						31.76							
+"Congo, Rep."	COG	Income share held by highest 10%	SI.DST.10TH.10																																														37.05						29.85			
+Colombia	COL	Income share held by highest 10%	SI.DST.10TH.10																													41.21	42.31		39.49	40.46				45.64			46.9	47.01	46.64	46.6	43.5	45.51	44.28	47.16	47.84	44.39	44.55	44.26	43.09	41.98		
+Comoros	COM	Income share held by highest 10%	SI.DST.10TH.10																																													55.19										
+Cabo Verde	CPV	Income share held by highest 10%	SI.DST.10TH.10																																											40.64					34.9							
+Costa Rica	CRI	Income share held by highest 10%	SI.DST.10TH.10																											23.09			33.71	33	34.3	33.73	33.71	35.25	33.76	34.3	33.85	34.02	35.88	35.67	38.97	39.07	37.51	36.94	35.98	38.01	38.91	38.21	39.65	37.08	36.97	37.05		
+Caribbean small states	CSS	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Cuba	CUB	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Curacao	CUW	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Cayman Islands	CYM	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Cyprus	CYP	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Czech Republic	CZE	Income share held by highest 10%	SI.DST.10TH.10																													17.82					23.63			22.69									22.94	22.62		22.88	22.37	22.45	22.24			
+Germany	DEU	Income share held by highest 10%	SI.DST.10TH.10																									23.37					22.87					23.66						23.43				25.2			25.73			24.41				
+Djibouti	DJI	Income share held by highest 10%	SI.DST.10TH.10																																											30.91												
+Dominica	DMA	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Denmark	DNK	Income share held by highest 10%	SI.DST.10TH.10																												21.71					20.63			19.85					20.21				20.38			21.38			22.1				
+Dominican Republic	DOM	Income share held by highest 10%	SI.DST.10TH.10																											36.11			39.81			41.95				36.5	37.86			40.72	39.64	38.79	41.74	41.64	39.05	41.19	38.36	38.83	38.71	36.47	37.3	35.75		
+Algeria	DZA	Income share held by highest 10%	SI.DST.10TH.10																													32.67							26.89																			
+East Asia & Pacific (developing only)	EAP	Income share held by highest 10%	SI.DST.10TH.10																																																							
+East Asia & Pacific (all income levels)	EAS	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Europe & Central Asia (developing only)	ECA	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Europe & Central Asia (all income levels)	ECS	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Ecuador	ECU	Income share held by highest 10%	SI.DST.10TH.10																												38.44							42.97	40.03			37.86	47.85	45.91			43.8	42.62	42.59	42.46	43.33	39.35	38.24	38.35	34.83	35.4		
+"Egypt, Arab Rep."	EGY	Income share held by highest 10%	SI.DST.10TH.10																															26.73						26.04				28.34				27.62				26.57						
+Euro area	EMU	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Eritrea	ERI	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Spain	ESP	Income share held by highest 10%	SI.DST.10TH.10																															25.11					27.63					26.32				25.07			24.18			25.2				
+Estonia	EST	Income share held by highest 10%	SI.DST.10TH.10																													18.41					31.35		22.71			29.76		27.63	27.9	27.31	26.84		26.21	26.88	24.05	24.95	24.46	24.32	24.81			
+Ethiopia	ETH	Income share held by highest 10%	SI.DST.10TH.10																																				33.84				25.43						25.63					27.51				
+European Union	EUU	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Fragile and conflict affected situations	FCS	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Finland	FIN	Income share held by highest 10%	SI.DST.10TH.10																												19.22				19.65				20.57					22.77				23.52			23.17			22.59				
+Fiji	FJI	Income share held by highest 10%	SI.DST.10TH.10																																											34.73						34.87						
+France	FRA	Income share held by highest 10%	SI.DST.10TH.10																									29.25					24.95					25.65						24.43					24.67									
+Faeroe Islands	FRO	Income share held by highest 10%	SI.DST.10TH.10																																																							
+"Micronesia, Fed. Sts."	FSM	Income share held by highest 10%	SI.DST.10TH.10																																									47.12														
+Gabon	GAB	Income share held by highest 10%	SI.DST.10TH.10																																														33.22									
+United Kingdom	GBR	Income share held by highest 10%	SI.DST.10TH.10																																27.21			28.16	27.53				28.62					29.29			28.37			28.56				
+Georgia	GEO	Income share held by highest 10%	SI.DST.10TH.10																																					27.93	31.26	31.17	29.87	30.33	30.04	29.88	29.32	29.68	30.12	30.39	30.93	30.49	31.52	31.25	30.97	30.89		
+Ghana	GHA	Income share held by highest 10%	SI.DST.10TH.10																												27.34	28.14			29.99							30.07							32.75									
+Guinea	GIN	Income share held by highest 10%	SI.DST.10TH.10																																32.42			34.13									32.23				30.34					26.49		
+"Gambia, The"	GMB	Income share held by highest 10%	SI.DST.10TH.10																																							38.18					36.94											
+Guinea-Bissau	GNB	Income share held by highest 10%	SI.DST.10TH.10																																42.35		39.24									28.13												
+Equatorial Guinea	GNQ	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Greece	GRC	Income share held by highest 10%	SI.DST.10TH.10																																				27.41					25.74				25.65			25.68			26.19				
+Grenada	GRD	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Greenland	GRL	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Guatemala	GTM	Income share held by highest 10%	SI.DST.10TH.10																												46.73		46.78									44.83		44.41		44.49	40.53	38.72		43.56					41.83			
+Guam	GUM	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Guyana	GUY	Income share held by highest 10%	SI.DST.10TH.10																																	42.8						33.97																
+High income	HIC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+"Hong Kong SAR, China"	HKG	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Honduras	HND	Income share held by highest 10%	SI.DST.10TH.10																											43.26			48.18	45.47	40.81	41.37	42.8	43.49	43.82	43.7	41.39	44.62	41.85		41.21	44.66	45.69	45.24	46.25	44.05	43.81	43.87	39.14	41.02	45.67			
+Heavily indebted poor countries (HIPC)	HPC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Croatia	HRV	Income share held by highest 10%	SI.DST.10TH.10																													19.49										22.24	22.84	25.06	24.59			23				27.73						
+Haiti	HTI	Income share held by highest 10%	SI.DST.10TH.10																																										47.68													
+Hungary	HUN	Income share held by highest 10%	SI.DST.10TH.10																												19		21.63				24.19					21.91	23.38	22.81	22.12	22.21	24.65		23.93	22.8		22.06		23.1	23.11			
+Indonesia	IDN	Income share held by highest 10%	SI.DST.10TH.10																									24.91			24.61			24.68			25.01			26.57			25.08			25.6			28.51			27.84		28.18				
+Isle of Man	IMN	Income share held by highest 10%	SI.DST.10TH.10																																																							
+India	IND	Income share held by highest 10%	SI.DST.10TH.10																												26.96						25.98											28.26					28.79					
+Not classified	INX	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Ireland	IRL	Income share held by highest 10%	SI.DST.10TH.10																												27.49							29.08	28.65	27.59				26.21				26.68			25.28			24.61				
+"Iran, Islamic Rep."	IRN	Income share held by highest 10%	SI.DST.10TH.10																											36.86				33.55				33.29				33.74							29.63									
+Iraq	IRQ	Income share held by highest 10%	SI.DST.10TH.10																																																23.63					23.7		
+Iceland	ISL	Income share held by highest 10%	SI.DST.10TH.10																																													23.6			24.71			22.17				
+Israel	ISR	Income share held by highest 10%	SI.DST.10TH.10																											26.88						26.9					28.2				28.8				30.03		29.51			31.27				
+Italy	ITA	Income share held by highest 10%	SI.DST.10TH.10																											24.7	25.48		25.16		24.05		26.2		26.56			28.52		26.99				28.74				26.67		26.21				
+Jamaica	JAM	Income share held by highest 10%	SI.DST.10TH.10																													33.66		32.87			27.41			32.4			35.26		51.48	38.18		35.9										
+Jordan	JOR	Income share held by highest 10%	SI.DST.10TH.10																											28.11						34.99					29.84					30.78				27.68		26.79		27.62				
+Japan	JPN	Income share held by highest 10%	SI.DST.10TH.10																																																	24.77						
+Kazakhstan	KAZ	Income share held by highest 10%	SI.DST.10TH.10																													20.43					24.94			26.4					25.45	25.26	24.31	23.74	21.73	24.73	24.24	24.22		23.72				
+Kenya	KEN	Income share held by highest 10%	SI.DST.10TH.10																																	47.87		32.76			37.43								37.99									
+Kyrgyz Republic	KGZ	Income share held by highest 10%	SI.DST.10TH.10																													21.26					40.26					27.9		24.69	23.87	23.84	23.33	27.17	28.52	28.71	27.87	27.91	27.38	27.37	26.25			
+Cambodia	KHM	Income share held by highest 10%	SI.DST.10TH.10																																			32.99										29.09			33.99	28.57	28.2	28.01	26.91			
+Kiribati	KIR	Income share held by highest 10%	SI.DST.10TH.10																																																							
+St. Kitts and Nevis	KNA	Income share held by highest 10%	SI.DST.10TH.10																																																							
+"Korea, Rep."	KOR	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Kosovo		Income share held by highest 10%	SI.DST.10TH.10																																																							
+Kuwait	KWT	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Latin America & Caribbean (developing only)	LAC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Lao PDR	LAO	Income share held by highest 10%	SI.DST.10TH.10																																	25.81					28.96					26.97					29.44					29.67		
+Lebanon	LBN	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Liberia	LBR	Income share held by highest 10%	SI.DST.10TH.10																																																30.1							
+Libya	LBY	Income share held by highest 10%	SI.DST.10TH.10																																																							
+St. Lucia	LCA	Income share held by highest 10%	SI.DST.10TH.10																																				32.48																			
+Latin America & Caribbean (all income levels)	LCN	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Least developed countries: UN classification	LDC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Low income	LIC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Liechtenstein	LIE	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Sri Lanka	LKA	Income share held by highest 10%	SI.DST.10TH.10																										26.42					27.38					29.17							33.65				32.94			30.03					
+Lower middle income	LMC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Low & middle income	LMY	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Lesotho	LSO	Income share held by highest 10%	SI.DST.10TH.10																											43.57							44.12	48.36								38.33								40.97				
+Lithuania	LTU	Income share held by highest 10%	SI.DST.10TH.10																													18.97					27.75			25.6		25.18		24.7	24.87	24.87	27.94	27.39	27.16	26.79		28.95		24.83	24.57			
+Luxembourg	LUX	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Latvia	LVA	Income share held by highest 10%	SI.DST.10TH.10																													18.73					22.06		24.83	25.27	25.38	26.08				27.49		26.97		26.66		27.44		26.29	27.41			
+"Macao SAR, China"	MAC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+St. Martin (French part)	MAF	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Morocco	MAR	Income share held by highest 10%	SI.DST.10TH.10																									31.84						30.49								31.06			32.29						33.22							
+Monaco	MCO	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Moldova	MDA	Income share held by highest 10%	SI.DST.10TH.10																													19.86				25.64					28.27	29.76	34.04		29.74	27.41	27.46	27.49	28.52	27.38	26.78	27.12	25.03	25.43	24.51			
+Madagascar	MDG	Income share held by highest 10%	SI.DST.10TH.10																																		36.93				30.02		32.29		36.87				31.79					33.16				
+Maldives	MDV	Income share held by highest 10%	SI.DST.10TH.10																																							48.13						28.03										
+Middle East & North Africa (all income levels)	MEA	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Mexico	MEX	Income share held by highest 10%	SI.DST.10TH.10																									35.1					41.43			40.26		41.48		37.98		37.74		41.42		39.38		35.64	40.24	38.28		38.68		37.51		38.86		
+Marshall Islands	MHL	Income share held by highest 10%	SI.DST.10TH.10																																								64.91															
+Middle income	MIC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+"Macedonia, FYR"	MKD	Income share held by highest 10%	SI.DST.10TH.10																																							22.14		25.77		29.33	29.67	29.17	28.93	32.68		34.48						
+Mali	MLI	Income share held by highest 10%	SI.DST.10TH.10																																			40.55							30.39					30.54				25.83				
+Malta	MLT	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Myanmar	MMR	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Middle East & North Africa (developing only)	MNA	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Montenegro	MNE	Income share held by highest 10%	SI.DST.10TH.10																																														23.88	22.96	23.91	24.1	24.2	22.49	24.54			
+Mongolia	MNG	Income share held by highest 10%	SI.DST.10TH.10																																				24.96			22.92				24.8					28.38							
+Northern Mariana Islands	MNP	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Mozambique	MOZ	Income share held by highest 10%	SI.DST.10TH.10																																					35.94						39.2							36.73					
+Mauritania	MRT	Income share held by highest 10%	SI.DST.10TH.10																												31.96						42.49		28.39					29.56				33.17				31.62						
+Mauritius	MUS	Income share held by highest 10%	SI.DST.10TH.10																																															28.93						28.89		
+Malawi	MWI	Income share held by highest 10%	SI.DST.10TH.10																																						41.95							32.76						37.45				
+Malaysia	MYS	Income share held by highest 10%	SI.DST.10TH.10																									38.45			36.94		36.41			37.02			37.86		38.42							28.77			34.76		34.65					
+North America	NAC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Namibia	NAM	Income share held by highest 10%	SI.DST.10TH.10																																		65											54.75					51.76					
+New Caledonia	NCL	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Niger	NER	Income share held by highest 10%	SI.DST.10TH.10																																	29.44		32.74											37.05		28.51				26.27			
+Nigeria	NGA	Income share held by highest 10%	SI.DST.10TH.10																										28.21							31.53				37.1								29.88						32.87				
+Nicaragua	NIC	Income share held by highest 10%	SI.DST.10TH.10																																		44.16					36.12			33.87				31.51				35.19					
+Netherlands	NLD	Income share held by highest 10%	SI.DST.10TH.10																												22.19			24.68			23.16						21.84					24.39			24.41			22.85				
+High income: nonOECD	NOC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Norway	NOR	Income share held by highest 10%	SI.DST.10TH.10																											20.55					21.15				21.71					23.3				25.59			21.7			21.87				
+Nepal	NPL	Income share held by highest 10%	SI.DST.10TH.10																									25											29.1								36.69							26.52				
+New Zealand	NZL	Income share held by highest 10%	SI.DST.10TH.10																																																							
+High income: OECD	OEC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+OECD members	OED	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Oman	OMN	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Other small states	OSS	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Pakistan	PAK	Income share held by highest 10%	SI.DST.10TH.10																												27.78			27.09						25.29		28.21			26.2			26.71	28.29		26.05			25.6				
+Panama	PAN	Income share held by highest 10%	SI.DST.10TH.10																														42.86		42.51				43.21		44.08	43.42	42.49	43.7		43.59	43.19	41.65	40.52	41.79	40.22	40.61	40.49	40.1	40.01	39.92		
+Peru	PER	Income share held by highest 10%	SI.DST.10TH.10																										35.51									34.29			27.56	44.49	44.95	38.64	39.62	42.53	42.94	37.5	38.08	37.74	37.83	35.41	35	34.07	34.3	33.81		
+Philippines	PHL	Income share held by highest 10%	SI.DST.10TH.10																										32.73			32.05			34.69			33.59			36.6			36.4			34.29			33.9			33.62			33.48		
+Palau	PLW	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Papua New Guinea	PNG	Income share held by highest 10%	SI.DST.10TH.10																																					40.86																		
+Poland	POL	Income share held by highest 10%	SI.DST.10TH.10																										20.86		21.16		21.6			21				26.48		25.86	25.81	26.09	25.75	26.73		27.01	26.97	26.36	26.45	26.72	26.58	26.19	25.85			
+Puerto Rico	PRI	Income share held by highest 10%	SI.DST.10TH.10																																																							
+"Korea, Dem. Rep."	PRK	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Portugal	PRT	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Paraguay	PRY	Income share held by highest 10%	SI.DST.10TH.10																															30.75					46.11		41.44		42.11		43.32	46.12	44.57	42.09	40.1	42.87	41.2	40.36	38.17	41.12	41.38	37.32		
+Pacific island small states	PSS	Income share held by highest 10%	SI.DST.10TH.10																																																							
+French Polynesia	PYF	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Qatar	QAT	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Romania	ROU	Income share held by highest 10%	SI.DST.10TH.10																														19.21			20.19		22.7				23.65	23.44		23.24	23.75	23.71	23.54	23.52	24.09	23.99	23.22	22.33	21.89	21.44	21.46		
+Russian Federation	RUS	Income share held by highest 10%	SI.DST.10TH.10																													19.45					38.16			35.47			27.74		30.41	28.15	29.1	30.77	28.87	28.97	30.53	27.92	31.03					
+Rwanda	RWA	Income share held by highest 10%	SI.DST.10TH.10																									24.58																43.42						45.15					43.22			
+South Asia	SAS	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Saudi Arabia	SAU	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Sudan	SDN	Income share held by highest 10%	SI.DST.10TH.10																																																		26.72					
+Senegal	SEN	Income share held by highest 10%	SI.DST.10TH.10																																42.82			33.89							33.53				30.14						31.1			
+Singapore	SGP	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Solomon Islands	SLB	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Sierra Leone	SLE	Income share held by highest 10%	SI.DST.10TH.10																																												31.56								28.74			
+El Salvador	SLV	Income share held by highest 10%	SI.DST.10TH.10																														34.98		41.39				38.81	39.76		40.53	38.65	39.27	39.85	38.6	37.44	35.45	36.34	35.47	35.73	36	36.07	33.7	32.86	32.47		
+San Marino	SMR	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Somalia	SOM	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Serbia	SRB	Income share held by highest 10%	SI.DST.10TH.10																																											26.25	26	25.82	26.17	23.47	23.45	22.7	22.76	23.24				
+Sub-Saharan Africa (developing only)	SSA	Income share held by highest 10%	SI.DST.10TH.10																																																							
+South Sudan	SSD	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Sub-Saharan Africa (all income levels)	SSF	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Small states	SST	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Sao Tome and Principe	STP	Income share held by highest 10%	SI.DST.10TH.10																																									43.61										26.02				
+Suriname	SUR	Income share held by highest 10%	SI.DST.10TH.10																																								40.56															
+Slovak Republic	SVK	Income share held by highest 10%	SI.DST.10TH.10																													18.14				18.24				20.84								24.29	24.59	23.72		23.26	22.41	21.86	20.97			
+Slovenia	SVN	Income share held by highest 10%	SI.DST.10TH.10																												20.4						24.48					23.04				23.05	23.82	24.64	20.58	20.38		20.14		20.74	20.76			
+Sweden	SWE	Income share held by highest 10%	SI.DST.10TH.10																												19.09					20.16			20.11					22.19					21.35									
+Swaziland	SWZ	Income share held by highest 10%	SI.DST.10TH.10																																			49.85						44.32									40.12					
+Sint Maarten (Dutch part)	SXM	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Seychelles	SYC	Income share held by highest 10%	SI.DST.10TH.10																																								33.98							60.16								
+Syrian Arab Republic	SYR	Income share held by highest 10%	SI.DST.10TH.10																																													28.93										
+Turks and Caicos Islands	TCA	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Chad	TCD	Income share held by highest 10%	SI.DST.10TH.10																																											30.79									32.56			
+Togo	TGO	Income share held by highest 10%	SI.DST.10TH.10																																															32.89					34.68			
+Thailand	THA	Income share held by highest 10%	SI.DST.10TH.10																													35.33		36.36		38.65		34.89		34.28		32.31	34.06	33.79		33.38				33.31		31.81		30.99				
+Tajikistan	TJK	Income share held by highest 10%	SI.DST.10TH.10																																								23.32				25.62	26.57			25.12		24.13					
+Turkmenistan	TKM	Income share held by highest 10%	SI.DST.10TH.10																													21.51					26.57					31.72																
+Timor-Leste	TLS	Income share held by highest 10%	SI.DST.10TH.10																																																25.35							
+Tonga	TON	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Trinidad and Tobago	TTO	Income share held by highest 10%	SI.DST.10TH.10																													31.14				29.89																						
+Tunisia	TUN	Income share held by highest 10%	SI.DST.10TH.10																										34.08					30.69					31.75					31.57					29.12					27.18				
+Turkey	TUR	Income share held by highest 10%	SI.DST.10TH.10																												35.31							32.26								31.86	32.41	30.83	31.73	29.56	28.23	28.61	29.21	29.3	30.5			
+Tuvalu	TUV	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Tanzania	TZA	Income share held by highest 10%	SI.DST.10TH.10																																	26.61								27.03							29.61					31.07		
+Uganda	UGA	Income share held by highest 10%	SI.DST.10TH.10																														33.7			34.76				29.93			34.69			37.57			34.07				36.1			35.76		
+Ukraine	UKR	Income share held by highest 10%	SI.DST.10TH.10																													19.51				20.81			30.4	27.68			23.2			23.17	23.35	23.13	23.17	23.94	23.88	21.9	22.04	20.98				
+Upper middle income	UMC	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Uruguay	URY	Income share held by highest 10%	SI.DST.10TH.10																														32.23			30.53			31.22	31.72	31.92	32.51		33.05	34.44	34.86	35.1	35.62	34.34	35.93	36.32	35.08	35.24	34.37	32.47	30.17		
+United States	USA	Income share held by highest 10%	SI.DST.10TH.10																											26.11					26.68			27.85			30.26			29.87				30.14			30.55			29.61				
+Uzbekistan	UZB	Income share held by highest 10%	SI.DST.10TH.10																													20.85										33.36				27.33	28.28											
+St. Vincent and the Grenadines	VCT	Income share held by highest 10%	SI.DST.10TH.10																																																							
+"Venezuela, RB"	VEN	Income share held by highest 10%	SI.DST.10TH.10																												40.78		32.49			31.6			35.58			35.78	35.98		35.27	36.23	35.1	34.67	36.43	33.19								
+Virgin Islands (U.S.)	VIR	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Vietnam	VNM	Income share held by highest 10%	SI.DST.10TH.10																																		28.96					29.34				30.31		28.99		27.79		28.21		31.05		27.75		
+Vanuatu	VUT	Income share held by highest 10%	SI.DST.10TH.10																																																							
+West Bank and Gaza	PSE	Income share held by highest 10%	SI.DST.10TH.10																																													26.44			29.98		27.37					
+World	WLD	Income share held by highest 10%	SI.DST.10TH.10																																																							
+Samoa	WSM	Income share held by highest 10%	SI.DST.10TH.10																																																							
+"Yemen, Rep."	YEM	Income share held by highest 10%	SI.DST.10TH.10																																							25.91							29.9									
+South Africa	ZAF	Income share held by highest 10%	SI.DST.10TH.10																																		46.66		45.09					44.93						57.54			51.69		53.78			
+"Congo, Dem. Rep."	COD	Income share held by highest 10%	SI.DST.10TH.10																																														34.69									
+Zambia	ZMB	Income share held by highest 10%	SI.DST.10TH.10																																		39.28			39.23		42.06					33.86	38.9		43.14				47.39				
+Zimbabwe	ZWE	Income share held by highest 10%	SI.DST.10TH.10																																																							

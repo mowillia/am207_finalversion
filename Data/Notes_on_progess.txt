@@ -1,0 +1,20 @@
+Notes on Project progress:
+
+15/04/2015 - 
+Read in the total life expectancy data using pd.DataFrame.from_csv and wrote code to determine the year with the most recorded data
+ 
+22/04/2015 - 
+Wrote code to print out the code needed to write in all the data files ran that code and then ran the printed code to read in the data files 
+
+Choose 2010 for the initial analysis as it is the year with the most data most often, ranking first 8 times
+
+25/04/2015 - 
+Run some code to check typical values of the adjusted R^2 for total life expectancy versus factors 4 and 5 and for lists of factors roughly 10-20 categories long
+
+Also, reorganize the data in the GSH2013 and voter turnout files so that they follow the same format as the world bank data
+
+26/04/2015 - 
+Write the simulated annealing algorithm to determine which factors most influence life expectancy
+
+27/04/2015 -
+Fix bugs in the simulated annealing algorithm 

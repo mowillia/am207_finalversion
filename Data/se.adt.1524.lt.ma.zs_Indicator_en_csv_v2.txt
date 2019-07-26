@@ -1,0 +1,251 @@
+Data Source	World Development Indicators																																																									
+																																																										
+Country Name	Country Code	Indicator Name	Indicator Code	1960	1961	1962	1963	1964	1965	1966	1967	1968	1969	1970	1971	1972	1973	1974	1975	1976	1977	1978	1979	1980	1981	1982	1983	1984	1985	1986	1987	1988	1989	1990	1991	1992	1993	1994	1995	1996	1997	1998	1999	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014
+Aruba	ABW	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									98.88175964										98.96572876				
+Andorra	AND	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Afghanistan	AFG	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																				45.79601669																																61.87907028			
+Angola	AGO	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																										83.77693176											79.75084686		
+Albania	ALB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																										99.36845398							98.53712463			98.73135376			
+Arab World	ARB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															81.7288967										87.23336999										91.26084753				
+United Arab Emirates	ARE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																65.51174164										81.01383209																				93.62515259									
+Argentina	ARG	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					96.45922089											98.06549072										98.707901											99.05789948		
+Armenia	ARM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.90937042												99.75234222											99.68283844		
+American Samoa	ASM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					97.88861847																																		
+Antigua and Barbuda	ATG	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Australia	AUS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Austria	AUT	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Azerbaijan	AZE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																								99.87033844								100		99.95678711	99.967453	99.9560318	99.95500183		
+Burundi	BDI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																				40.93199158											59.49784088										76.78002167								89.59275055						
+Belgium	BEL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Benin	BEN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																				45.71064377													55.13021851										59.20507813				54.86693954								
+Burkina Faso	BFA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																22.37712669																26.78880119					25.47826195							38.38108826		40.37980652	39.82186508	46.73374176							
+Bangladesh	BGD	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						44.36215973										51.7367363										67.16381073											78.00684357		
+Bulgaria	BGR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																										98.30966949										98.06692505			
+Bahrain	BHR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						89.69038391										97.25866699										96.82707977									98.61991119				
+"Bahamas, The"	BHS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Bosnia and Herzegovina	BIH	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									99.74819946												99.67919922		
+Belarus	BLR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.73197937										99.75687408										99.80032349					
+Belize	BLZ	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																76.1361618																							
+Bermuda	BMU	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Bolivia	BOL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																	91.46814728																96.31840515									98.54929352						99.7536087	99.39022827	99.69364166		99.24662781	99.16244507		
+Brazil	BRA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					82.5567627																				92.65401459				95.7838974		96.7970047	97.05687714	97.1804657	97.44571686	96.71616364	97.90999603	98.2243576		
+Barbados	BRB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Brunei Darussalam	BRN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						94.06430054										98.10690308										98.87430573											99.81040192		
+Bhutan	BTN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																														80.04192352									
+Botswana	BWA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																85.90007019												92.08330536									94.20459747		
+Central African Republic	CAF	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																53.99043274													62.56144714												72.59474945										48.85710144				
+Canada	CAN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Central Europe and the Baltics	CEB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															99.58577102										99.24615281										99.54053911				
+Switzerland	CHE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Channel Islands	CHI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Chile	CHL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																							96.18222046										98.15644836										98.80363464						99.11451721	98.85938263					
+China	CHN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																							95.20853424								96.97693634										99.19846344										99.68962097				
+Cote d'Ivoire	CIV	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																													59.93224716										54.40312958		70.8407135												58.33262634		
+Cameroon	CMR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																	79.59165192																								88.4224472							89.41732025			85.3974762				
+"Congo, Rep."	COG	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																				85.68360901			
+Colombia	COL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																		89.37749481			96.38511658								97.55252075	97.51702881	97.53366089	97.48287964	97.54666138	97.44113159	97.682724	97.76045227			
+Comoros	COM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					69.35772705																				83.95133209												86.31324768		
+Cabo Verde	CPV	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															89.94897461														96.22622681								97.87189484		
+Costa Rica	CRI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																									96.75452423																97.19749451											99.0076828			
+Caribbean small states	CSS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									92.51109554										94.54473773				
+Cuba	CUB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																											99.95740509										99.98841858		
+Curacao	CUW	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Cayman Islands	CYM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																99.1423111							
+Cyprus	CYP	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																	99.57991028									99.73630524										99.80454254			
+Czech Republic	CZE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Germany	DEU	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Djibouti	DJI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Dominica	DMA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Denmark	DNK	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Dominican Republic	DOM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						81.25730896																					92.99863434					94.6272049			95.77529907	96.09169006	96.32187653	96.76269531	
+Algeria	DZA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																												86.23008728															94.05754089				94.38147736								
+East Asia & Pacific (developing only)	EAP	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															96.00706658										98.21745922										98.87837463				
+East Asia & Pacific (all income levels)	EAS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															96.30236898										98.31817113										98.92190945				
+Europe & Central Asia (developing only)	ECA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															98.86618644										99.03699607										99.61377415				
+Europe & Central Asia (all income levels)	ECS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															99.46411186										99.49859056										99.71966991				
+Ecuador	ECU	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																							94.55480957								96.57576752											96.37939453						95.2183075		96.81895447	98.46886444	98.58650208	98.77323151	98.57940674	
+"Egypt, Arab Rep."	EGY	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																	63.04068375										71.38067627										78.99087524									90.07911682	87.85679626				90.55763245		92.35575867		
+Euro area	EMU	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																			99.74791763				
+Eritrea	ERI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																											86.2532196										93.18599701		
+Spain	ESP	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						98.64133453										99.54004669														99.57169342		99.58000946	99.52781677	99.6387558	99.50676727	99.65464783	99.64105225		
+Estonia	EST	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.83401489											99.72910309											99.93923187			
+Ethiopia	ETH	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																			39.2886734										62.20000076	55.88473511		62.97092819							
+European Union	EUU	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									99.60575794										99.74273168				
+Fragile and conflict affected situations	FCS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									80.61623597										80.44305653				
+Finland	FIN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Fiji	FJI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+France	FRA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Faeroe Islands	FRO	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+"Micronesia, Fed. Sts."	FSM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Gabon	GAB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																		94.40755463											90.8985672								87.3895874		
+United Kingdom	GBR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Georgia	GEO	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																											99.78848267										99.7487793		
+Ghana	GHA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									75.94589233										88.31074524				
+Guinea	GIN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																					44.12004852							59.4623642							37.5671463				
+"Gambia, The"	GMB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									64.34049225												73.41030884		
+Guinea-Bissau	GNB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																				59.69436646																					74.80124664												79.69293976		
+Equatorial Guinea	GNQ	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									97.60790253												97.71697235		
+Greece	GRC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						99.04806519										98.98842621										98.89445496											99.44869232		
+Grenada	GRD	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Greenland	GRL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Guatemala	GTM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																			81.72106171								86.37878418										95.46641541		
+Guam	GUM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					95.35726166																																		
+Guyana	GUY	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																		92.42121124					
+High income	HIC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+"Hong Kong SAR, China"	HKG	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Honduras	HND	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																										86.89098358						92.69525909			94.44801331	94.93143463	94.00283813		
+Heavily indebted poor countries (HIPC)	HPC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															65.44483021										70.76443975										72.20948194				
+Croatia	HRV	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																99.66618347										99.64425659										99.71204376			
+Haiti	HTI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																							51.26135254																					82.65737152			74.36740875								
+Hungary	HUN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					99.42166138														99.11067963										98.91201782								99.31082916		
+Indonesia	IDN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					89.59121704										97.40226746														98.86707306		97.02747345		99.53747559	99.55003357		98.80384064			
+Isle of Man	IMN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+India	IND	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						66.31487274										73.50971985										84.19223785					88.41183472								
+Not classified	INX	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Ireland	IRL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+"Iran, Islamic Rep."	IRN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																	70.900177										84.5260849					92.4355011					95.51682281						95.51682281			98.10998535	97.14548492		98.78791809				98.34095001		
+Iraq	IRQ	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									88.91217041												83.68367004		
+Iceland	ISL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Israel	ISR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																								99.05456543																												99.65127563			
+Italy	ITA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						99.69758606																				99.80446625											99.91358185		
+Jamaica	JAM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																								87.31139374													93.25038147		
+Jordan	JOR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																				95.79214478																								99.32878876		98.93099976		98.95204163			98.75873566	99.05082703	99.00203705		
+Japan	JPN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Kazakhstan	KAZ	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.69770813										99.81602478										99.8039093					
+Kenya	KEN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									93.30951691							83.20542145							
+Kyrgyz Republic	KGZ	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																								99.65077209										99.70462799					
+Cambodia	KHM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																							81.84628296						87.92010498				89.38368225	88.35611725					
+Kiribati	KIR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+St. Kitts and Nevis	KNA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+"Korea, Rep."	KOR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Kosovo		"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Kuwait	KWT	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																77.6922226					81.28816223					90.69232941										93.79988861										99.69097137	98.52217865	98.39884186	98.56515503				98.73638153		
+Latin America & Caribbean (developing only)	LAC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															92.55939205										95.8999206										97.58041699				
+Lao PDR	LAO	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																				78.8157959					88.06196594	82.59932709				89.18749237									
+Lebanon	LBN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																98.39605713							
+Liberia	LBR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																									62.82728958										65.76042175										63.00360107			63.4510231							
+Libya	LBY	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																									97.85203552										97.85204315										99.84896851								99.94915009		
+St. Lucia	LCA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Latin America & Caribbean (all income levels)	LCN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															92.75807212										95.95176182										97.63123985				
+Least developed countries: UN classification	LDC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															65.17226951										72.58063083										75.68933955				
+Low income	LIC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															67.17889053										73.68536986										75.5085961				
+Liechtenstein	LIE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Sri Lanka	LKA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						91.87976837																				95.06528473					97.02708435		97.33250427		97.6865387				
+Lower middle income	LMC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															79.32214964										85.46591535										88.72279065				
+Low & middle income	LMY	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															85.47204734										88.89989787										90.90366081				
+Lesotho	LSO	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									84.82558441									74.18502808					
+Lithuania	LTU	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.64117432												99.66222382										99.84547424			
+Luxembourg	LUX	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Latvia	LVA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.75005341											99.71818542											99.80218506			
+"Macao SAR, China"	MAC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						95.14238739																				99.43008423					99.58699036					99.65496826			
+St. Martin (French part)	MAF	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Morocco	MAR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																							58.11692429												71.38491058										80.80266571				85.80525208	86.72862244		88.829422			
+Monaco	MCO	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Moldova	MDA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.72014618											99.40320587												100		
+Madagascar	MDG	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									72.65446472									65.91478729					
+Maldives	MDV	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																		84.13037109								94.88720703					98.07730865					98.03438568					98.03438568						99.24021912								
+Middle East & North Africa (all income levels)	MEA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															85.40345331										90.82624358										94.41354612				
+Mexico	MEX	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					93.08718872										95.9634552										96.75119781		97.94070435		97.51729584	97.64424896	98.10612488	98.19888306	98.40971375	98.67002869	98.37556458	98.41655731	98.72037506		
+Marshall Islands	MHL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Middle income	MIC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															87.95135152										91.3874437										93.51977574				
+"Macedonia, FYR"	MKD	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																			99.14446259								98.98544312										98.79720306		
+Mali	MLI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																	26.66562653																						32.25118256					36.97090912			47.37996674				56.37127304	56.31502151			
+Malta	MLT	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																										97.4337616										94.36506653										97.45976257									
+Myanmar	MMR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																								88.56580353																	95.7881012												96.21515656		
+Middle East & North Africa (developing only)	MNA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															84.43547316										90.10770173										93.86071884				
+Montenegro	MNE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																				99.36078644			
+Mongolia	MNG	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									96.99860382										98.02181244				
+Northern Mariana Islands	MNP	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Mozambique	MOZ	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					63.95417786																	59.45270157						74.36054993						79.84043884					
+Mauritania	MRT	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									67.73265076							66.39987946							
+Mauritius	MUS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															90.6955719										93.7218399											97.68915558			
+Malawi	MWI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																												70.44065094											82.0912323												74.26925659				
+Malaysia	MYS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					89.49591827											95.90644073									97.20814514										98.38103485				
+North America	NAC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Namibia	NAM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																85.70274353										91.15274048						83.2385788							
+New Caledonia	NCL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																	97.00249481													98.65692902							99.04862976																99.51515198		
+Niger	NER	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																										26.23005486				52.44952011							34.53362274		
+Nigeria	NGA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																81.3560257												78.12795258					75.56594086						
+Nicaragua	NIC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																										83.62999725				85.15561676									
+Netherlands	NLD	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+High income: nonOECD	NOC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															98.49315016										98.83603522										99.32452166				
+Norway	NOR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Nepal	NPL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						45.09614182										68.22962952										80.6159668										89.23628998			
+New Zealand	NZL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+High income: OECD	OEC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+OECD members	OED	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Oman	OMN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																												97.86508942					97.63412476		97.40564728				
+Other small states	OSS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															81.5529331										85.07784158										84.1126775				
+Pakistan	PAK	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						44.50286865																	67.1493454							76.65171814	79.10217285		79.42005157	79.14431763	79.50414276	78.04242706			
+Panama	PAN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					95.92750549										95.39389038										96.53054047										97.9344635				
+Peru	PER	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						96.51333618												96.98548126											97.80303192	97.9213562	98.51274872	98.01325989					98.71933746		
+Philippines	PHL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					91.06331635										96.2767334										94.45825958			93.57830048					97.01995087						
+Palau	PLW	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					94.19359589																																	99.7951889	
+Papua New Guinea	PNG	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									69.13373566												66.8272934		
+Poland	POL	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																			99.77873993																99.99913025										99.99983978								99.99996185		
+Puerto Rico	PRI	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					93.0182724										92.22389984														88.09477234						98.81458282				
+"Korea, Dem. Rep."	PRK	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																	99.99959564						
+Portugal	PRT	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						97.6643219										99.14245605																				99.3917923			
+Paraguay	PRY	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																							90.17328644										95.85674286															98.8097229	97.69171906	98.0414505	98.50033569				
+Pacific island small states	PSS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									93.66177362														
+French Polynesia	PYF	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Qatar	QAT	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																											88.5273056											94.12275696							94.88587952			99.09516144	95.31861115	97.70183563	96.32373047	97.57915497	98.68559265		
+Romania	ROU	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																	99.18006897										97.74423218									99.01408386			
+Russian Federation	RUS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.69100189													99.67908478								99.66278076				
+Rwanda	RWA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																			59.65620041																						78.52217102										76.65857697				
+South Asia	SAS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															70.44927165										80.43258257										85.71100997				
+Saudi Arabia	SAU	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																	93.96331024								98.07427979				96.95304871									99.30072021	
+Sudan	SDN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									85.69496												90.31431		
+Senegal	SEN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																													49.12730408														58.4850769				58.12516785			74.20334625		73.96650696			
+Singapore	SGP	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					96.40878296										98.8551178										99.40999603										99.73789215	99.8840332	99.84785461		
+Solomon Islands	SLB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																								90															
+Sierra Leone	SLE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																													59.61425018								71.63671875		
+El Salvador	SLV	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																	84.94525909												92.09268951		94.39686584	93.21922302	95.40500641	94.70804596	95.66904449	96.15055847			
+San Marino	SMR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Somalia	SOM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Serbia	SRB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																					99.27789307		
+Sub-Saharan Africa (developing only)	SSA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															72.81561971										75.80464707										75.49984995				
+South Sudan	SSD	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Sub-Saharan Africa (all income levels)	SSF	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															72.83065332										75.81636568										75.5188892				
+Small states	SST	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															84.75687443										87.55581145										87.13309763				
+Sao Tome and Principe	STP	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						90.81988525										95.80854034										95.97399139							83.05632782						
+Suriname	SUR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																													95.61588287				99.37585449		97.97273254				
+Slovak Republic	SVK	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Slovenia	SVN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																99.73696899													99.78855896								99.80696106		
+Sweden	SWE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Swaziland	SWZ	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																	76.08308411										83.08649445														90.6941452										92.18741608				
+Sint Maarten (Dutch part)	SXM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Seychelles	SYC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																												96.80686188							98.49397278								98.77059937										98.77059937		
+Syrian Arab Republic	SYR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						88.83198547																					97.14406586		94.60730743								96.57640839		
+Turks and Caicos Islands	TCA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Chad	TCD	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																		26.24622536							55.68619537				53.70823288								53.79584122		
+Togo	TGO	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									83.78623199						84.85531616			87.62799835		86.91667175			
+Thailand	THA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					97.57081604																				98.09989166					98.2168045					96.64254761				
+Tajikistan	TJK	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																														99.7364502											99.84442902												99.85813141		
+Turkmenistan	TKM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																				99.8079071																	99.77127075		
+Timor-Leste	TLS	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																			80.48975372				
+Tonga	TON	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																	99.84105682																				99.26522064										99.30216217					99.36656952			
+Trinidad and Tobago	TTO	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					99.19503784										99.30000305														99.48471832								99.57079315		
+Tunisia	TUN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																									85.74456787										90.38009644										96.3950119			97.83990479	98.13430786		98.21085358	98.23632813			
+Turkey	TUR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																90.75405121					93.62197876					95.68403625					96.57076263														98.02444458	98.36092377	98.36595917	98.58455658		99.01895905	99.2141571	99.44670105	99.59050751		
+Tuvalu	TUV	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Tanzania	TZA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																													86.20431519														80.91718292								76.49114227				
+Uganda	UGA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																77.22388458											85.95757294				87.26584625				89.63518524				
+Ukraine	UKR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																										99.77623749											99.73348236		
+Upper middle income	UMC	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															95.34715735										97.85886063										98.68137036				
+Uruguay	URY	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																97.74089813										98.26304626											98.15317535										98.31210327	98.48880005	98.62773895	98.14126587	98.35943604	98.61339569	98.62612152		
+United States	USA	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Uzbekistan	UZB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																									99.85337067												99.89208221		
+St. Vincent and the Grenadines	VCT	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+"Venezuela, RB"	VEN	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																						92.32981873									94.52075195											96.32622528						97.97440338		98.26985931					
+Virgin Islands (U.S.)	VIR	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																																							
+Vietnam	VNM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																				96.10887146										94.08259583										94.17869568	95.5878067									97.39524078					
+Vanuatu	VUT	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																				75.74416351															87.30343628										92.10684204								94.70365906		
+West Bank and Gaza	PSE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																						96.91362762							99.02489471		99.03929901	99.1341629	99.2668457	99.23297882	99.21134949	99.25985718	99.34516144		
+World	WLD	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															87.73936282										90.52588293										92.08945306				
+Samoa	WSM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																99.12000275													99.33325958								99.44094086		
+"Yemen, Rep."	YEM	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																			82.80422211										92.82116699								96.71224213		
+South Africa	ZAF	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																					85.34619904																93.49841309											97.04518127		97.91520691	98.38871765	98.43064117	98.49654388		
+"Congo, Dem. Rep."	COD	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																																										77.98110962						78.93641663							
+Zambia	ZMB	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																															67.26934814									72.61559296			77.72512054					70.30841064							
+Zimbabwe	ZWE	"Literacy rate, youth male (% of males ages 15-24)"	SE.ADT.1524.LT.MA.ZS																							93.8269577										96.54062653																			89.5905838			

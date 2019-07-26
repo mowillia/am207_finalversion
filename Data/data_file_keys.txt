@@ -1,0 +1,165 @@
+------------Life Expectancy-------------------
+
+sp.dyn.le00.fe.in_Indicator_en_csv_v2.csv
+= Life expectancy at birth, female (years)
+
+sp.dyn.le00.ma.in_Indicator_en_csv_v2.csv
+= Life expectancy at birth, male (years)
+
+sp.dyn.le00.in_Indicator_en_csv_v2.csv
+= Life expectancy at birth, total (years)
+
+------------Education-------------------------
+
+se.xpd.totl.gb.zs_Indicator_en_csv_v2.csv
+= Public spending on education, total (% of government expenditure)
+
+se.xpd.totl.gd.zs_Indicator_en_csv_v2.csv
+= Public spending on education, total (% of GDP)
+
+se.xpd.prim.pc.zs_Indicator_en_csv_v2.csv
+= Expenditure per student, primary (% of GDP per capita)
+
+se.xpd.seco.pc.zs_Indicator_en_csv_v2.csv
+= Expenditure per student, secondary (% of GDP per capita)
+
+se.xpd.tert.pc.zs_Indicator_en_csv_v2.csv
+= Expenditure per student, tertiary (% of GDP per capita)
+
+se.adt.1524.lt.ma.zs_Indicator_en_csv_v2.csv
+= Literacy rate, youth male (% of males ages 15-24)
+
+se.adt.1524.lt.fe.zs_Indicator_en_csv_v2.csv
+= Literacy rate, youth female (% of females ages 15-24)
+
+se.adt.litr.zs_Indicator_en_csv_v2.csv
+= Literacy rate, adult total (% of people ages 15 and above)
+
+se.prm.uner.fe_Indicator_en_csv_v2.csv
+= Children out of school, primary, female
+
+se.prm.uner.ma_Indicator_en_csv_v2.csv
+= Children out of school, primary, male
+
+se.prm.tcaq.zs_Indicator_en_csv_v2.csv
+= Trained teachers in primary education (% of total teachers)
+
+se.prm.enrl.tc.zs_Indicator_en_csv_v2.csv
+= Pupil-teacher ratio, primary
+
+se.sec.prog.fe.zs_Indicator_en_csv_v2.csv
+= Progression to secondary school, female (%)
+
+se.sec.prog.ma.zs_Indicator_en_csv_v2.csv
+= Progression to secondary school, male (%)
+
+se.enr.prim.fm.zs_Indicator_en_csv_v2.csv
+= Ratio of female to male primary enrollment (%)
+
+se.enr.tert.fm.zs_Indicator_en_csv_v2.csv
+= Ratio of female to male tertiary enrollment (%)
+
+------------Population------------------------
+
+sp.pop.0014.to.zs_Indicator_en_csv_v2.csv
+= Population ages 0-14 (% of total)
+
+sp.pop.1564.to.zs_Indicator_en_csv_v2.csv
+= Population ages 15-64 (% of total)
+
+-----------Unemployment rates-----------------
+
+sl.uem.totl.ma.zs_Indicator_en_csv_v2.csv
+= Unemployment, male (% of male labor force) (modeled ILO estimate)
+
+sl.uem.totl.fe.zs_Indicator_en_csv_v2.csv
+= Unemployment, female (% of female labor force) (modeled ILO estimate)
+
+sl.emp.totl.sp.zs_Indicator_en_csv_v2.csv
+= Employment to population ratio, 15+, total (%) (modeled ILO estimate)
+
+sl.uem.ltrm.ma.zs_Indicator_en_csv_v2.csv
+= Long-term unemployment, male (% of male unemployment)
+
+sl.uem.ltrm.fe.zs_Indicator_en_csv_v2.csv
+= Long-term unemployment, female (% of female unemployment)
+
+sl.tlf.totl.in_Indicator_en_csv_v2.csv
+= Labor force, total
+
+sl.tlf.cact.fe.zs_Indicator_en_csv_v2.csv
+= Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)
+
+sl.tlf.cact.ma.zs_Indicator_en_csv_v2.csv
+= Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)
+
+sl.tlf.cact.zs_Indicator_en_csv_v2.csv 
+= Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)
+
+sl.emp.vuln.fe.zs_Indicator_en_csv_v2.csv
+= Vulnerable employment, female (% of female employment)
+
+sl.emp.vuln.ma.zs_Indicator_en_csv_v2.csv
+= Vulnerable employment, male (% of male employment)
+
+sl.emp.vuln.zs_Indicator_en_csv_v2.csv
+= Vulnerable employment, total (% of total employment)
+
+--------Income distribution-------------------
+
+si.dst.10th.10_Indicator_en_csv_v2.csv
+= Income share held by highest 10%
+
+si.dst.05th.20_Indicator_en_csv_v2.csv
+= Income share held by highest 20%
+
+si.dst.frst.10_Indicator_en_csv_v2.csv
+= Income share held by lowest 10%
+
+si.dst.frst.20_Indicator_en_csv_v2.csv
+= Income share held by lowest 20%
+
+si.pov.gaps_Indicator_en_csv_v2.csv
+= Poverty gap at $1.25 a day (PPP) (%)
+
+si.pov.nagp_Indicator_en_csv_v2.csv
+= Poverty gap at national poverty lines (%)
+
+si.pov.dday_Indicator_en_csv_v2.csv
+= Poverty headcount ratio at $1.25 a day (PPP) (% of population)
+
+si.pov.nahc_Indicator_en_csv_v2.csv
+= Poverty headcount ratio at national poverty lines (% of population)
+
+si.pov.rugp_Indicator_en_csv_v2.csv
+= Rural poverty gap at national poverty lines (%)
+
+si.pov.ruhc_Indicator_en_csv_v2.csv
+= Rural poverty headcount ratio at national poverty lines (% of rural population)
+
+si.pov.urgp_Indicator_en_csv_v2.csv
+= Urban poverty gap at national poverty lines (%)
+
+si.pov.urhc_Indicator_en_csv_v2.csv
+= Urban poverty headcount ratio at national poverty lines (% of urban population)
+
+-------------Crime rates/murder rates------------------------------------
+
+GSH2013_Homicide_count_and_rate.csv
+= Intentional homicide count and rate per 100,000 population, by country/territory (2000-2012)
+
+GSH2013_Sex_time_series.csv
+= Percentage of male and female intentional homicide victims, by country/territory, criminal justice source (2000-2012)
+
+GSH2013_City_data.csv
+= Intentional homicide count and rate per 100,000 population in the most populous city, by country/territory (2005-2012)
+
+GSH2013_OC.csv
+= Intentional homicide victims killed by gangs or organised criminal groups as percentage of total homicide victims by country/territory (2005-2012)
+
+GSH2013_IPFM.csv
+= Male and female intentional homicide victims killed by intimate partners or family members as a percentage of total homicide victims, by country/territory
+
+GSH2013_robbery.csv
+= Intentional homicide victims killed during commission of a robbery as percentage of total homicide victims, by country/territory (2005-2012)
+
