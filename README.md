@@ -1,15 +1,15 @@
 ## Explanation of File Contents
 
 
-#### am207_AP_RKuateDefo_final.ipynb
+#### am207_MWilliams_RKuateDefo_final.ipynb
 - Main report file for final project
 
 
-#### am20_AP_RKuateDefo_poster.ppt
+#### am20_MWilliams_RKuateDefo_poster.ppt
 - Poster presentation
 
 
-#### am207_AP_RKuateDefo_screencast.wmv
+#### am207_MWilliams_RKuateDefo_screencast.wmv
 - Screencast
 
 
